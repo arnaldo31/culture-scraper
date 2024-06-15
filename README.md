@@ -1,4 +1,4 @@
-# Concerts Scraper
+# Culture Scraper
 
 This script scrapes concert information from different websites and saves the results as JSON data.
 
