@@ -7,6 +7,8 @@ import asyncio
 import time
 import aiohttp
 import html
+import re
+import json
 
 
 today = datetime.today()
@@ -96,7 +98,9 @@ def crawl():
     
 
     current_date = datetime.now()
-    final_date = current_date + timedelta(days=15)
+    day_minus = (11 - current_date.month ) * 30
+
+    final_date = current_date + timedelta(days=day_minus)
     
     username = PROXY['username']
     password = PROXY['password']
@@ -135,49 +139,71 @@ def crawl():
     final_day = str(final_date.day)
     final_month = str(final_date.month)
     final_year  = str(final_date.year)
-    curl = f'https://www.kultunaut.dk/perl/arrlist/type-nynaut?Area=nearme&nearmeradius=2000&ArrStartdato={current_day}%2F{current_month}%20{current_year}&ArrSlutdato={final_day}%2F{final_month}%20{final_year}&Genre=For%20børn&periode=&startnr=1'
-    tester = 0
-    while True:
-        if tester == 8:
-            raise IndexError
-        try:
-            response = session.get(curl,timeout=7)
-            soup = BeautifulSoup(response.text,'lxml')
-            page_div = soup.find('li',class_='active-item')
-            if page_div == None:
-                tester += 1
-                continue
-            total_pages = page_div.parent.find_all('li')[-2].a.get('href').split('=')[-1]
-            total_pages = int(total_pages) + 12
-            break
-        except requests.exceptions.Timeout:
-            continue
-        except requests.exceptions.ConnectionError:
-            continue
-
-    for i in range(1,2000,12):
-        if i >= total_pages:
-            break
-        start_time = time.time()  
-        i = str(i)
-        #i = 500
-        current_day = str(current_date.day)
-        current_month = str(current_date.month)
-        current_year = str(current_date.year)
-        
-        final_day = str(final_date.day)
-        final_month = str(final_date.month)
-        final_year  = str(final_date.year)
-        
-        curl = f'https://www.kultunaut.dk/perl/arrlist/type-nynaut?Area=nearme&nearmeradius=2000&ArrStartdato={current_day}%2F{current_month}%20{current_year}&ArrSlutdato={final_day}%2F{final_month}%20{final_year}&Genre=For%20børn&periode=&startnr={i}'
-        
-        result = parse_page(curl=curl,session=session)
-        if result == []:
-            print('completed')
-            break
-        #print("multiple threads took ", (time.time() - start_time), " seconds")
-
     
+    
+    data = {
+        "startnr": 0,
+        "Area": "nearme",
+        "nearmeradius": 2000,
+        "ArrStartdato": f"{current_day}/{current_month} {current_year}",
+        "ArrSlutdato": f"{final_day}/{final_month} {final_year}",
+        "Genre": "For børn",
+        "periode": None,
+        "callback": "naut.call.nautnext[1]"
+    }
+    response = session.get(
+        'https://www.kultunaut.dk/perl/arrlist2/type-nynaut',
+        params=data
+    )
+    
+    if 'nautnext[0]' in response.text:
+        pattern = r'\.nautnext\[0\]\((\{[\s\S]*?\})\);'
+    if 'nautnext[1]' in response.text:
+        pattern = r'\.nautnext\[1\]\((\{[\s\S]*?\})\);'
+    
+    match = re.search(pattern, response.text)
+    match_data = json.loads(match.group(1))
+    #pprint.pprint(match_data)
+
+    total_pages = match_data['maxantal']    
+    print(total_pages)
+    
+    for i in range(1,9999,12):
+        data['startnr'] = i
+        while True:
+            try:
+                response = session.get('https://www.kultunaut.dk/perl/arrlist2/type-nynaut',params=data,timeout=10)
+            except requests.exceptions.Timeout:
+                continue
+            except requests.exceptions.ConnectionError:
+                continue
+            pattern = None
+            if 'nautnext[0]' in response.text:
+                pattern = r'\.nautnext\[0\]\((\{[\s\S]*?\})\);'
+            if 'nautnext[1]' in response.text:
+                pattern = r'\.nautnext\[1\]\((\{[\s\S]*?\})\);'
+                
+            response.encoding = 'utf-8'
+            match = re.search(pattern, response.text)
+
+            if match == None:
+                print(response.url)
+                continue
+            
+            break
+        
+        match_data = json.loads(match.group(1))
+        soup = BeautifulSoup(match_data['html'],'lxml')
+        cards = soup.select('a.product-content')
+
+        if cards == []:
+            break
+        links = []
+        for card in cards:
+            links.append(card['href'])
+        
+        parse_page(links=links)
+
 def translate(word):
     
     while True:
@@ -197,31 +223,8 @@ def translate(word):
             continue
         else:
             return data['data']['translations'][0]['translatedText']
-        
-def parse_page(curl:str,session:requests.Session):
 
-    while True:
-        try:
-            response = session.get(curl,timeout=10)
-        except requests.exceptions.Timeout:
-            continue
-        except requests.exceptions.ConnectionError:
-            continue
-        response.encoding = 'utf-8'
-        soup = BeautifulSoup(response.text,'lxml')
-        
-        cards = soup.find_all(class_='product-content')
-        if cards == []:
-            continue
-        
-        break
-        
-    links = []
-    for card in cards:
-        url = card['href']
-        #url = 'https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=17675266'
-        #url = 'https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=17666366'
-        links.append(url)
+def parse_page(links:list):
 
     loop = asyncio.get_event_loop()
     results = loop.run_until_complete(main(links))
@@ -281,6 +284,7 @@ def parse_page(curl:str,session:requests.Session):
                             time =  '0' + time + ':00'
                 if 'at' in timesplit and '-' in timesplit:
                     time = timesplit.split('at ')[1][:5].replace('-',':').replace('.',':')
+                    time = time.split(':')[0] + ':00'
                 if 'from' in timesplit and 'to' in timesplit:
                     time = timesplit.split('from ')[1][:5].replace('-',':').replace('.',':')
                 if 'from' in timesplit and 'PM' in timesplit and ':' in timesplit:
