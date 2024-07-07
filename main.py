@@ -83,8 +83,8 @@ def crawler():
     savefile = []
     
     # Returning a [list] contains of {dict} scrape data - from each script from /scrapers folder
-    #savefile.extend(kultunaut_Gastronomi.run())
-    #savefile.extend(kultunaut_BornFamily.run())
+    savefile.extend(kultunaut_Gastronomi.run())
+    savefile.extend(kultunaut_BornFamily.run())
     savefile.extend(scenen.run())
     savefile.extend(kunsten.run())
     
