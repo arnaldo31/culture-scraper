@@ -3,10 +3,11 @@ from bs4 import BeautifulSoup
 from datetime import datetime,timedelta
 import logging
 import traceback
-import pprint
 import aiohttp
 import asyncio
 import time
+import codecs
+import json
 
 today = datetime.today()
 date_save = today.strftime("%Y-%m-%d")
@@ -44,6 +45,20 @@ headers = {
     'upgrade-insecure-requests': '1',
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0',
 }
+
+def saving(savefile:list,filename:str):
+    seen = []
+    unique_list = []
+    for item in savefile:
+        text = '{}-{}-{}'.format(item['title'],item['address'],item['url'])
+        if text not in seen:
+            seen.append(text)
+            unique_list.append(item)
+
+    filename = filename
+    with codecs.open(f'.\\savefiles\\{filename}.json', 'w', encoding='utf-8') as f:
+        json.dump({'posts': unique_list}, f, ensure_ascii=False, indent=4)
+
 
 async def get_page(session,url):
 
@@ -236,4 +251,5 @@ def run():
         logging.error(f"An error occurred: (scrapers\\{filename})\n%s", error_message)
         logging.error("-" * 113)
 
+    saving(savefile=save,filename=filename.replace('.py',''))
     return save

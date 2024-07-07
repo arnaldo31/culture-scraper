@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 from datetime import datetime,timedelta
 import logging
 import traceback
-import pprint
-
+import codecs
+import json
 
 today = datetime.today()
 date_save = today.strftime("%Y-%m-%d")
@@ -26,7 +26,21 @@ month_mapping = {
     "oct": "10", "nov": "11", "dec": "12",
     'okt':'10'
 }
-    
+
+def saving(savefile:list,filename:str):
+    seen = []
+    unique_list = []
+    for item in savefile:
+        text = '{}-{}-{}'.format(item['title'],item['address'],item['url'])
+        if text not in seen:
+            seen.append(text)
+            unique_list.append(item)
+
+    filename = filename
+    with codecs.open(f'.\\savefiles\\{filename}.json', 'w', encoding='utf-8') as f:
+        json.dump({'posts': unique_list}, f, ensure_ascii=False, indent=4)
+
+
 def crawl():
     
     headers = {
@@ -185,5 +199,6 @@ def run():
         logging.error(f"An error occurred: (scrapers\\{filename})\n%s", error_message)
         logging.error("-" * 113)
 
+    saving(savefile=save,filename=filename.replace('.py',''))
     return save
 

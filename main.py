@@ -12,7 +12,7 @@ def clear_log_file():
 # Saving the file
 def save(savefile: list):
     current_date = datetime.now().strftime('%Y%m%d')
-    with codecs.open(f'.\\savefiles\\save_{current_date}.json', 'w', encoding='utf-8') as f:
+    with codecs.open(f'.\\savefiles\\cultures_save_{current_date}.json', 'w', encoding='utf-8') as f:
         json.dump({'posts': savefile}, f, ensure_ascii=False, indent=4)
 
 # Check if hours is in correct format
@@ -83,8 +83,8 @@ def crawler():
     savefile = []
     
     # Returning a [list] contains of {dict} scrape data - from each script from /scrapers folder
-    savefile.extend(kultunaut_Gastronomi.run())
-    savefile.extend(kultunaut_BornFamily.run())
+    #savefile.extend(kultunaut_Gastronomi.run())
+    #savefile.extend(kultunaut_BornFamily.run())
     savefile.extend(scenen.run())
     savefile.extend(kunsten.run())
     
