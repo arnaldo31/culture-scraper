@@ -1,7 +1,7 @@
 {
     "posts": [
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/sommer-showroom-2/",
             "title": "Sommer Showroom - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -23,7 +23,7 @@
             "locationLongitude": 12.591887
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/ron-mueck-art-and-life/",
             "title": "Ron Mueck: Art and Life - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -45,7 +45,7 @@
             "locationLongitude": 10.19954800000005
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/sarah-sze/",
             "title": "Sarah Sze: Metronome - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -67,7 +67,7 @@
             "locationLongitude": 10.19954800000005
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/richard-mortensen-mellem-linierne/",
             "title": "Richard Mortensen – Mellem Linierne - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -89,7 +89,7 @@
             "locationLongitude": 10.19954800000005
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/anette-harboe-flensburg/",
             "title": "Anette Harboe Flensburg: Sten – Skelet – Silhuet - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -111,7 +111,7 @@
             "locationLongitude": 12.5320488
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/man-tager-hvad-man-har/",
             "title": "Man tager hvad man har!  - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -133,7 +133,7 @@
             "locationLongitude": 12.5320488
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/sukkerfabrikken-gruppeudstilling/",
             "title": "SUKKERFABRIKKEN - Gruppeudstilling - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -155,7 +155,7 @@
             "locationLongitude": 12.2758369
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/johan-martin-christiansen-jeppe-sleeping/",
             "title": "Jóhan Martin Christiansen: Jeppe Sleeping - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -177,7 +177,7 @@
             "locationLongitude": 12.5576209
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/eventyrlig-dialog/",
             "title": "Eventyrlig Dialog - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -199,7 +199,7 @@
             "locationLongitude": 9.022465104333838
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/summer-24/",
             "title": "Summer 24 - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -221,7 +221,7 @@
             "locationLongitude": 10.2052009
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/techno-mythologies/",
             "title": "Wang & Söderström: Techno Mythologies - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -243,7 +243,7 @@
             "locationLongitude": 12.5797381
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/taryn-simon-start-again-the-lament/",
             "title": "Taryn Simon: Start Again the Lament - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -265,7 +265,7 @@
             "locationLongitude": 12.524567877246099
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/playing-with-fire-edmund-de-waal-and-axel-salto/",
             "title": "Playing with Fire: Edmund de Waal and Axel Salto - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -287,7 +287,7 @@
             "locationLongitude": 9.720178000000033
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/grounding/",
             "title": "Grounding - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -309,7 +309,7 @@
             "locationLongitude": 9.720178000000033
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/basel-abbas-ruanne-abou-rahme-the-song-is-the-call-and-the-land-is-calling/",
             "title": "Basel Abbas & Ruanne Abou-Rahme: The song is the call and the land is calling - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -331,7 +331,7 @@
             "locationLongitude": 12.613001712442044
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/residentialskabt/",
             "title": "Residential - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -353,7 +353,7 @@
             "locationLongitude": 12.613001712442044
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/kapwani-kiwanga-the-length-of-the-horizon/",
             "title": "Kapwani Kiwanga: The Length of the Horizon - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -375,7 +375,7 @@
             "locationLongitude": 12.613001712442044
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/jakob-martin-strid-den-fantastiske-bus-boerneudstilling/",
             "title": "Jakob Martin Strid: Den fantastiske bus (Børneudstilling) - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -397,7 +397,7 @@
             "locationLongitude": 12.613001712442044
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/james-turrell-aftershock/",
             "title": "James Turrell: Aftershock - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -419,7 +419,7 @@
             "locationLongitude": 12.613001712442044
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/aware-arkitektur-og-sanser/",
             "title": "Aware – arkitektur og sanser - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -441,7 +441,7 @@
             "locationLongitude": 12.578538299999991
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/fang-din-by-2/",
             "title": "Fang din by - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -463,7 +463,7 @@
             "locationLongitude": 12.578538299999991
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/teenagedroemme/",
             "title": "Teenagedrømme - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -485,7 +485,7 @@
             "locationLongitude": 12.578538299999991
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/mere-end-ord-kalligrafi-fra-den-islamiske-verden/",
             "title": "Mere end Ord. Kalligrafi fra den islamiske verden - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -507,7 +507,7 @@
             "locationLongitude": 12.582206300000053
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/atiena-r-kilfa-special-effect/",
             "title": "Atiéna R. Kilfa: Special Effect - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -529,7 +529,7 @@
             "locationLongitude": 12.58742140000004
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/carl-nielsen-og-anne-marie-carl-nielsens-legat-2024/",
             "title": "Carl Nielsen og Anne Marie Carl-Nielsens Legat 2024 - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -551,7 +551,7 @@
             "locationLongitude": 12.58742140000004
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/den-sorte-diamant-25-aar/",
             "title": "PÅ KANTEN - Den Sorte Diamant 25 år - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -573,7 +573,7 @@
             "locationLongitude": 12.582126399999993
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/aarets-pressefoto-2023/",
             "title": "Årets Pressefoto 2023 - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -595,7 +595,7 @@
             "locationLongitude": 12.582126399999993
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/i-krig-kaerlighed-japanske-traesnit-fra-designmuseum-danmarks-samling/",
             "title": "I Krig og Kærlighed - japanske træsnit fra Designmuseum Danmarks samling - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -617,7 +617,7 @@
             "locationLongitude": 12.592745000000036
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/irma-en-designhistorie/",
             "title": "Irma - En Designhistorie - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -639,7 +639,7 @@
             "locationLongitude": 12.592745000000036
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/the-future-is-present-en-udstilling-om-fremtidens-design/",
             "title": "The Future is Present – En udstilling om fremtidens design - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -661,7 +661,7 @@
             "locationLongitude": 12.592745000000036
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/frederik-nystrup-larsen-stolen-motifs-vol-i/",
             "title": "Frederik Nystrup-Larsen: Stolen Motifs, Vol. I - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -683,7 +683,7 @@
             "locationLongitude": 12.560379000000012
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/opbrud-hamborg-kunst-fra-1920erne-og-30erne/",
             "title": "Opbrud - Hamborg-kunst fra 1920'erne og 30'erne - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -705,7 +705,7 @@
             "locationLongitude": 8.450569200000018
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/sammenhaenge-gruppeudstilling/",
             "title": "Sammenhænge: Gruppeudstilling - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -727,7 +727,7 @@
             "locationLongitude": 8.450569200000018
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/kontrapunkt-museets-samling-i-perspektiv/",
             "title": "Kontrapunkt – museets samling i perspektiv - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -749,7 +749,7 @@
             "locationLongitude": 8.450569200000018
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/fra-faaborg-museums-samling/",
             "title": "Fra Faaborg Museums samling - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -771,7 +771,7 @@
             "locationLongitude": 10.247432000000003
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/peter-funch-the-imperfect-atlas/",
             "title": "Peter Funch: The Imperfect Atlas - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -793,7 +793,7 @@
             "locationLongitude": 12.561974999999961
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/i-lyset-af-nordafrika-2/",
             "title": "I lyset af Nordafrika - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -815,7 +815,7 @@
             "locationLongitude": 11.799055749151648
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/fuglsang-x-allan-otte/",
             "title": "Fuglsang × Allan Otte - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -837,7 +837,7 @@
             "locationLongitude": 11.799055749151648
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/iben-joergensen-ikke-flere-ismer/",
             "title": "Iben Jørgensen: Ikke flere -ismer - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -859,7 +859,7 @@
             "locationLongitude": 10.045874000000026
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/tom-anholt-twins/",
             "title": "Tom Anholt: TWINS - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -881,7 +881,7 @@
             "locationLongitude": 12.591674499999954
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/sommerudstilling-2024/",
             "title": "Sommerudstilling 2024 - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -903,7 +903,7 @@
             "locationLongitude": 9.545604400000002
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/elisabeth-molin-taking-a-picture-of-you/",
             "title": "Elisabeth Molin: Taking a picture of You - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -925,7 +925,7 @@
             "locationLongitude": 12.5444991
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/artists-picks/",
             "title": "Artists’ Picks - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -947,7 +947,7 @@
             "locationLongitude": 12.560999000000038
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/summertime-24/",
             "title": "Summertime '24 - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -969,7 +969,7 @@
             "locationLongitude": 12.59240269999998
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/summer-show-2/",
             "title": "SUMMER SHOW - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -991,7 +991,7 @@
             "locationLongitude": 10.64365680000003
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/waou-24-aarets-stoerste-og-laengste-udstilling/",
             "title": "WAOU 24 – årets største og længste udstilling - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1013,7 +1013,7 @@
             "locationLongitude": 9.402968999999985
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/pernille-with-madsen-uncountable-ambience/",
             "title": "Pernille With Madsen: Uncountable Ambience - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1035,7 +1035,7 @@
             "locationLongitude": 12.58016699999996
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/summer-show-2024/",
             "title": "SUMMER SHOW 2024 - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1057,7 +1057,7 @@
             "locationLongitude": 12.576026100000036
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/udstilling-1/",
             "title": "Udstilling 1 - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1079,7 +1079,7 @@
             "locationLongitude": 12.5460843
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/jp-invitational/",
             "title": "JP Invitational - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1101,7 +1101,7 @@
             "locationLongitude": 12.56278199999997
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/chantal-joffe-og-anna-bjerger-the-time-before/",
             "title": "Chantal Joffe og Anna Bjerger: The Time Before - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1123,7 +1123,7 @@
             "locationLongitude": 12.577616130094164
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/christina-quarles-in-the-shadow-of-burning-light/",
             "title": "Christina Quarles: In the Shadow of Burning Light - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1145,7 +1145,7 @@
             "locationLongitude": 12.577616130094164
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/helene-blanche-chiaroscuro/",
             "title": "Helene Blanche: ChiaroScuro - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1167,7 +1167,7 @@
             "locationLongitude": 12.56106153334349
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/kirsten-christensen-linnea-sjoberg-du-bliver-selv-gammel/",
             "title": "Kirsten Christensen & Linnéa Sjöberg: Du bliver selv gammel - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1189,7 +1189,7 @@
             "locationLongitude": 12.517427099999964
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/labyrinten/",
             "title": "LABYRINTEN - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1211,7 +1211,7 @@
             "locationLongitude": 10.673995300000001
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/efter-naturen/",
             "title": "Efter naturen - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1233,7 +1233,7 @@
             "locationLongitude": 12.572551346171625
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/kai-nielsen-foedt-af-hverdagen/",
             "title": "Kai Nielsen – Født af hverdagen - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1255,7 +1255,7 @@
             "locationLongitude": 12.572551346171625
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/do-it-socle-du-monde-art-festival/",
             "title": "DO IT! Socle du monde art festival - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1277,7 +1277,7 @@
             "locationLongitude": 9.022447199999988
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/blandt-traeer-henry-heerup-rune-bosse-og-astrid-kruse-jensen/",
             "title": "Blandt Træer - Henry Heerup, Rune Bosse og Astrid Kruse Jensen - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1299,7 +1299,7 @@
             "locationLongitude": 12.46670800000004
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/?post_type=exhibition&p=230411",
             "title": "TILL – fra rå kaos til skrøbelig skønhed af Anett Biliczki - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1321,7 +1321,7 @@
             "locationLongitude": 11.66478
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/jan-elhoej-morten-kirckhoff-forladt/",
             "title": "Jan Elhøj & Morten Kirckhoff: FORLADT - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1343,7 +1343,7 @@
             "locationLongitude": 11.8150759
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/john-olsen-2/",
             "title": "John Olsen - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1365,7 +1365,7 @@
             "locationLongitude": 8.621410922753967
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/nyerhvervelser-og-donationer-2016-2024/",
             "title": "Nyerhvervelser og donationer (2016-2024) - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1387,7 +1387,7 @@
             "locationLongitude": 8.621410922753967
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/cathrine-raben-davidsen-let-everything-happen-to-you-2/",
             "title": "Cathrine Raben Davidsen: Let Everything Happen to You - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1409,7 +1409,7 @@
             "locationLongitude": 9.860374999999976
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/michael-kvium-en-ophaengning-af-horsens-kunstmuseums-samling/",
             "title": "Michael Kvium: En ophængning af Horsens Kunstmuseums samling - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1431,7 +1431,7 @@
             "locationLongitude": 9.860374999999976
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/stense-andrea-lind-valdan-ve/",
             "title": "Stense Andrea Lind-Valdan: VE - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1453,7 +1453,7 @@
             "locationLongitude": 8.61114889999999
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/there-should-have-been-roses-chino-amobi-lea-porsager-ursula-reuter-christiansen-og-bizarro/",
             "title": "There Should Have Been Roses: Chino Amobi, Lea Porsager, Ursula Reuter Christiansen og Bizarro - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1475,7 +1475,7 @@
             "locationLongitude": 8.61114889999999
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/simon-bukhave-genspejl/",
             "title": "Simon Bukhave: Genspejl - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1497,7 +1497,7 @@
             "locationLongitude": 8.61114889999999
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/ks-24/",
             "title": "KS 24 - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1519,7 +1519,7 @@
             "locationLongitude": 8.607613799999967
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/lars-jonsson-jens-gregersen-naervaer/",
             "title": "Lars Jonsson & Jens Gregersen: NÆRVÆR - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1541,7 +1541,7 @@
             "locationLongitude": 10.661283000000026
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/mads-borre-tusinde-tabte-lommetoerklaeder/",
             "title": "Mads Borre: Tusinde tabte lommetørklæder - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1563,7 +1563,7 @@
             "locationLongitude": 10.213028
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/kolossal/",
             "title": "KOLOSSAL - Grafik i store formater - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1585,7 +1585,7 @@
             "locationLongitude": 12.63860109999996
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/ung-dansk-samtidskunst-24/",
             "title": "Ung Dansk Samtidskunst 24 - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1607,7 +1607,7 @@
             "locationLongitude": 9.935852100000034
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/peter-brandes-i-lyset-af-gentagelsen/",
             "title": "Peter Brandes - I LYSET AF GENTAGELSEN - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1629,7 +1629,7 @@
             "locationLongitude": 9.525833000000034
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/neu-polke-kiefer-baselitz/",
             "title": "NEU - Polke, Kiefer & Baselitz - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1651,7 +1651,7 @@
             "locationLongitude": 9.905935
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/john-koerner-crazy-awake/",
             "title": "John Kørner: CRAZY AWAKE - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1673,7 +1673,7 @@
             "locationLongitude": 9.905935
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/kunsten-retro-samlingen-vist-som-i-1972/",
             "title": "Kunsten Retro – samlingen vist som i 1972 - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1695,7 +1695,7 @@
             "locationLongitude": 9.905935
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/back-to-future/",
             "title": "Back to Future - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1717,7 +1717,7 @@
             "locationLongitude": 12.175870000000032
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/cats-the-exhibition/",
             "title": "Cats – The Exhibition - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1739,7 +1739,7 @@
             "locationLongitude": 12.175870000000032
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/raul-walch-a-flag-is-a-piece-of-fabric/",
             "title": "Raul Walch: A flag is a piece of fabric - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1761,7 +1761,7 @@
             "locationLongitude": 10.202200400000038
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/rhizome-network-without-center-point/",
             "title": "Rhizome – Network Without Center Point - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1783,7 +1783,7 @@
             "locationLongitude": 10.202200400000038
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/thao-nguyen-phan-reincarnations-of-shadows/",
             "title": "Thao Nguyen Phan: Reincarnations of Shadows - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1805,7 +1805,7 @@
             "locationLongitude": 12.588394026389329
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/luna-scales-marie-vedel-signs-and-symptoms/",
             "title": "Luna Scales & Marie Vedel: Signs and Symptoms - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1827,7 +1827,7 @@
             "locationLongitude": 9.931501000000026
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/silas-inoue-zen-wakarimasen/",
             "title": "Silas Inoue: Zen Wakarimasen - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1849,7 +1849,7 @@
             "locationLongitude": 8.4451628
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/franciska-clausen/",
             "title": "EN COLLAGE. Franciska Clausen 125 år - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1871,7 +1871,7 @@
             "locationLongitude": 9.41400079999994
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/love-lust-freedom/",
             "title": "Love, Lust & Freedom - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1893,7 +1893,7 @@
             "locationLongitude": 10.380868400000054
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/lundstroems-evighedsblaa/",
             "title": "Lundstrøms Evighedsblå - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1915,7 +1915,7 @@
             "locationLongitude": 10.380868400000054
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/belgisk-kunst-fra-boch-til-magritte/",
             "title": "Belgisk Kunst - fra Boch til Magritte - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1937,7 +1937,7 @@
             "locationLongitude": 10.380868400000054
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/carlos-amorales-black-cloud/",
             "title": "Carlos Amorales: Black Cloud - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1959,7 +1959,7 @@
             "locationLongitude": 10.380868400000054
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/monsterhjerte/",
             "title": "Monsterhjerte - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -1981,7 +1981,7 @@
             "locationLongitude": 10.380868400000054
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/ivan-argote-to-move-and-be-moved/",
             "title": "Iván Argote: TO MOVE AND BE MOVED - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2003,7 +2003,7 @@
             "locationLongitude": 12.183381000000054
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/tuija-lindstrom-love-death/",
             "title": "Tuija Lindström: Love & Death - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2025,7 +2025,7 @@
             "locationLongitude": 12.8289431
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/roni-horn-the-detour-of-identity/",
             "title": "Roni Horn: The Detour of Identity - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2047,7 +2047,7 @@
             "locationLongitude": 12.54305009999996
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/franz-gertsch-blow-up/",
             "title": "Franz Gertsch: Blow-Up - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2069,7 +2069,7 @@
             "locationLongitude": 12.54305009999996
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/kentridge-the-refusal-of-time/",
             "title": "Kentridge - The Refusal of Time - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2091,7 +2091,7 @@
             "locationLongitude": 12.54305009999996
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/chaim-soutine/",
             "title": "Chaïm Soutine - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2113,7 +2113,7 @@
             "locationLongitude": 12.54305009999996
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/koo-jeong-a-ehm-event-horizon-malmo/",
             "title": "Koo Jeong A: EHM [Event Horizon Malmö] - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2135,7 +2135,7 @@
             "locationLongitude": 12.999182901852464
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/granstrakt/",
             "title": "Gränstrakt - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2157,7 +2157,7 @@
             "locationLongitude": 12.987705199999937
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/peter-bonde/",
             "title": "Peter Bonde - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2179,7 +2179,7 @@
             "locationLongitude": 12.588052999999945
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/monica-sjoo-den-stora-kosmiska-modern/",
             "title": "Monica Sjöö: Den stora kosmiska modern - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2201,7 +2201,7 @@
             "locationLongitude": 13.0094742
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/unhealed/",
             "title": "Unhealed - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2223,7 +2223,7 @@
             "locationLongitude": 13.0094742
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/superorganisme-en-bihistorie/",
             "title": "SUPERORGANISME – en bihistorie - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2245,7 +2245,7 @@
             "locationLongitude": 12.365456900000027
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/ida-thorhauge-gudinder/",
             "title": "Ida Thorhauge: Gudinder - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2267,7 +2267,7 @@
             "locationLongitude": 8.296223000000055
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/danilo-correale-living-dead-time/",
             "title": "Danilo Correale: Living Dead Time - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2289,7 +2289,7 @@
             "locationLongitude": 12.0815037
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/hands-on-origami/",
             "title": "Hands on Origami - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2311,7 +2311,7 @@
             "locationLongitude": 9.6220155
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/hermann-nitsch/",
             "title": "Hermann Nitsch - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2333,7 +2333,7 @@
             "locationLongitude": 9.558368400000063
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/levende-grene/",
             "title": "Levende grene - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2355,7 +2355,7 @@
             "locationLongitude": 9.558368400000063
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/eks-skolen-2/",
             "title": "Eks-skolen – Dansk avantgardekunst i 60'erne - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2377,7 +2377,7 @@
             "locationLongitude": 9.558368400000063
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/per-kirkeby-co-kirkeby-baselitz-lupertz-penck/",
             "title": "Per Kirkeby & co. Kirkeby-Baselitz-Lüpertz-Penck - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2399,7 +2399,7 @@
             "locationLongitude": 9.558368400000063
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/jorns-verden-fortaellingen-om-en-stor-kunstner/",
             "title": "Jorns verden - Fortællingen om en stor kunstner - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2421,7 +2421,7 @@
             "locationLongitude": 9.558368400000063
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/mellem-stilhed-og-storm/",
             "title": "Mellem Stilhed og Storm - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2443,7 +2443,7 @@
             "locationLongitude": 8.509782500000028
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/600-fod-over-nn-vadehavet-fotograferet-af-peter-hamel/",
             "title": "600 fod over NN – vadehavet. Fotograferet af Peter Hamel - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2465,7 +2465,7 @@
             "locationLongitude": 8.509782500000028
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/sailor-caps-and-fine-threads-fide-struck-photographs-worlds-of-work-along-the-seashore-1930-1933/",
             "title": "Sailor Caps and Fine Threads - Fide Struck Photographs Worlds of Work along the Seashore, 1930-1933 - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2487,7 +2487,7 @@
             "locationLongitude": 8.509782500000028
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/kathrine-aertebjerg-den-dobbelte-virkelighed/",
             "title": "Kathrine Ærtebjerg: Klokkebarn, Blodmenneske, Dråben - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2509,7 +2509,7 @@
             "locationLongitude": 10.1881742
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/joana-vasconcelos-le-chateau-des-valkyries/",
             "title": "Joana Vasconcelos: Le Château des Valkyries - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2531,7 +2531,7 @@
             "locationLongitude": 9.5406664
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/rune-bering-net-works/",
             "title": "Rune Bering: Net Works - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2553,7 +2553,7 @@
             "locationLongitude": 12.5277993
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/super-high-end-underground/",
             "title": "Super High End Underground - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2575,7 +2575,7 @@
             "locationLongitude": 12.5815874
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/rune-bering-bycatch/",
             "title": "Rune Bering: Bycatch - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2597,7 +2597,7 @@
             "locationLongitude": 12.5815874
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/platform-paula-duvaa-x-mynte-corell/",
             "title": "Platform: Paula Duvå x Mynte Corell - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2619,7 +2619,7 @@
             "locationLongitude": 12.5815874
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/matthew-ronay-2/",
             "title": "Matthew Ronay - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2641,7 +2641,7 @@
             "locationLongitude": 12.531879000000004
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/matthew-ronay-fruitbody/",
             "title": "Matthew Ronay: Fruitbody - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2663,7 +2663,7 @@
             "locationLongitude": 12.531879000000004
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/summer-show/",
             "title": "Summer Show - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2685,7 +2685,7 @@
             "locationLongitude": 12.531879000000004
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/maelkeveje-koen-i-kunst-og-kultur/",
             "title": "MÆLKEVEJE - koen i kunst og kultur - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2707,7 +2707,7 @@
             "locationLongitude": 12.511291000000028
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/emil-nolde-fantasier/",
             "title": "Emil Nolde: Fantasier - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2729,7 +2729,7 @@
             "locationLongitude": 8.773646800000051
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/sigrun-gunnarsdottir-vingefang/",
             "title": "Sigrun Gunnarsdóttir: VINGEFANG - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2751,7 +2751,7 @@
             "locationLongitude": 12.596621199999959
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/mette-vangsgaard-helium/",
             "title": "Mette Vangsgaard: helium - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2773,7 +2773,7 @@
             "locationLongitude": 11.5048855
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/dorete-bendixen-geologiske-objekter/",
             "title": "Dorete Bendixen: Geologiske Objekter - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2795,7 +2795,7 @@
             "locationLongitude": 12.592229299999985
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/valerie-collart-et-in-arcadia-ego/",
             "title": "Valérie Collart: Et in Arcadia Ego - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2817,7 +2817,7 @@
             "locationLongitude": 12.5061505
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/ole-w-hoest-paa-vej/",
             "title": "Ole W. Høst: På vej - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2839,7 +2839,7 @@
             "locationLongitude": 14.9665636
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/oluf-hoest-og-de-revolutionaere/",
             "title": "FARLIGE FORBINDELSER: Gudhjem – Berlin – Paris - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2861,7 +2861,7 @@
             "locationLongitude": 14.9665636
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/michael-kvium-the-noise-of-silence/",
             "title": "Michael Kvium: The Noise of Silence - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2883,7 +2883,7 @@
             "locationLongitude": 14.9665636
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/rune-bosse-bagved-overfladen/",
             "title": "Rune Bosse - bagved overfladen - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2905,7 +2905,7 @@
             "locationLongitude": 12.56244300000003
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/panteha-abareshi-impaired-erotics/",
             "title": "Panteha Abareshi: Impaired Erotics - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2927,7 +2927,7 @@
             "locationLongitude": 12.590118599999983
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/hannah-heilmann-stagecraft/",
             "title": "Hannah Heilmann: Stagecraft - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2949,7 +2949,7 @@
             "locationLongitude": 12.568376599999965
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/julie-nord-jaertegn/",
             "title": "Julie Nord: JÆRTEGN - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2971,7 +2971,7 @@
             "locationLongitude": 10.040859100000034
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/lars-lundehave-hansen-panorama/",
             "title": "Lars Lundehave Hansen: Panorama - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -2993,7 +2993,7 @@
             "locationLongitude": 8.55355329499821
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/kevin-francis-gray-momentary-monumentality/",
             "title": "Kevin Francis Gray: Momentary Monumentality - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3015,7 +3015,7 @@
             "locationLongitude": 12.400540999999976
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/morten-schelde-the-eternal/",
             "title": "Morten Schelde: The Eternal - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3037,7 +3037,7 @@
             "locationLongitude": 12.400540999999976
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/lost-library-legends/",
             "title": "Lost Library Legends - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3059,7 +3059,7 @@
             "locationLongitude": 12.57578250000006
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/kai-n-100-en-homage-til-den-danske-billedhugger-kai-nielsen-i-anledning-af-100-aaret-for-hans-doed/",
             "title": "Kai N 100 - En homage til den danske billedhugger Kai Nielsen i anledning af 100 året for hans død - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3081,7 +3081,7 @@
             "locationLongitude": 10.603684799999996
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/jazz-og-kalligrafi-finn-nygaard/",
             "title": "Jazz og Kalligrafi. Finn Nygaard - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3103,7 +3103,7 @@
             "locationLongitude": 10.603684799999996
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/afgang-2024-5/",
             "title": "AFGANG 2024 - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3125,7 +3125,7 @@
             "locationLongitude": 10.603684799999996
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/nina-canell-future-mechanism-rag-plus-two-grams/",
             "title": "Nina Canell: Future Mechanism Rag Plus Two Grams - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3147,7 +3147,7 @@
             "locationLongitude": 12.579639
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/painting-as-prop/",
             "title": "Painting-as-Prop - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3169,7 +3169,7 @@
             "locationLongitude": 12.579639
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/fredrik-strid-making-nature/",
             "title": "Fredrik Strid: Making Nature - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3191,7 +3191,7 @@
             "locationLongitude": 13.198438899999928
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/albert-mertz/",
             "title": "Albert Mertz - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3213,7 +3213,7 @@
             "locationLongitude": 10.242741
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/vildt-nok-jagt-i-dansk-kunst-5/",
             "title": "Vildt nok. Jagt i dansk kunst - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3235,7 +3235,7 @@
             "locationLongitude": 9.411582299999964
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/terra-morf/",
             "title": "TERRA: Morf - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3257,7 +3257,7 @@
             "locationLongitude": 12.368085999999948
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/yvette-brackman-salon-des-refuses/",
             "title": "Yvette Brackman: Salon des Refusés - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3279,7 +3279,7 @@
             "locationLongitude": 12.578360100000054
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/laboratorie-for-flet/",
             "title": "Laboratorie For Flet - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3301,7 +3301,7 @@
             "locationLongitude": 12.457620099999986
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/fabrica/",
             "title": "FABRICA - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3323,7 +3323,7 @@
             "locationLongitude": 11.556142300000033
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/den-censurerede-udstilling-om-censur/",
             "title": "Den censurerede udstilling om censur - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3345,7 +3345,7 @@
             "locationLongitude": 12.532082456097434
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/genskin/",
             "title": "GENSKIN - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3367,7 +3367,7 @@
             "locationLongitude": 12.578268500000036
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/nanna-ditzel-design-til-nye-hoejder/",
             "title": "Nanna Ditzel – Design til nye højder - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3389,7 +3389,7 @@
             "locationLongitude": 9.531799999999976
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/trapholt-collect-3/",
             "title": "Trapholt Collect 2023 - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3411,7 +3411,7 @@
             "locationLongitude": 9.531799999999976
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/randi-samsonsen-things-matter/",
             "title": "Randi Samsonsen: Things Matter - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3433,7 +3433,7 @@
             "locationLongitude": 9.531799999999976
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/maria-torp-shaping-a-pattern/",
             "title": "Maria Torp: Shaping a Pattern - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3455,7 +3455,7 @@
             "locationLongitude": 9.531799999999976
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/kate-skjerning-den-triadiske-ballade/",
             "title": "Kate Skjerning: den triadiske ballade - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3477,7 +3477,7 @@
             "locationLongitude": 8.3569183
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/maria-bruun-crafted-contrasts/",
             "title": "Maria Bruun: Crafted Contrasts - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3499,7 +3499,7 @@
             "locationLongitude": 8.3569183
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/sou-fujimoto-primitive-future-everything-is-circulating/",
             "title": "Sou Fujimoto: PRIMITIVE FUTURE: EVERYTHING IS CIRCULATING - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3521,7 +3521,7 @@
             "locationLongitude": 9.926423099999965
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/kent-iwemyr-the-geniuses-of-art-has-no-limits/",
             "title": "Kent Iwemyr: The Geniuses of Art Has No Limits - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3543,7 +3543,7 @@
             "locationLongitude": 12.561775
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/signe-kejlbo-rosenhaven/",
             "title": "Signe Kejlbo: Rosenhaven - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3565,7 +3565,7 @@
             "locationLongitude": 12.297887899999978
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/skabninger-grafik-fra-japan-til-danmark/",
             "title": "SKAB­NINGER - Grafik fra Japan til Dan­mark - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3587,7 +3587,7 @@
             "locationLongitude": 9.529876999999942
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/kropumulig-kroputrolig/",
             "title": "KROPUMULIG KROPUTROLIG - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3609,7 +3609,7 @@
             "locationLongitude": 9.529876999999942
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/the-dark-side-papercut-af-mathias-malling-mortensen-stinne-bo-peter-callesen-og-amanda-betz/",
             "title": "The Dark Side - Papercut af Mathias Malling Mortensen, Stinne Bo, Peter Callesen og Amanda Betz - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3631,7 +3631,7 @@
             "locationLongitude": 9.987460000000056
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/mennesket-jorden-landskabet/",
             "title": "MENNESKET, JORDEN, LANDSKABET - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3653,7 +3653,7 @@
             "locationLongitude": 9.987460000000056
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/magma/",
             "title": "MAGMA - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3675,7 +3675,7 @@
             "locationLongitude": 8.622887900000023
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/maane-op/",
             "title": "MÅNE OP - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3697,7 +3697,7 @@
             "locationLongitude": 9.415760699999964
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/anna-taina-kaleidoscope/",
             "title": "Anna Taina: Kaleidoscope - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3719,7 +3719,7 @@
             "locationLongitude": 9.415760699999964
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/we-are-happy-to-serve-you-by-ruth-bartlett/",
             "title": "We Are Happy To Serve You by Ruth Bartlett - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3741,7 +3741,7 @@
             "locationLongitude": 12.5386787
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/som-et-moel-mod-flammen-martin-bigum-og-j-f-willumsen/",
             "title": "Som et møl mod flammen. Martin Bigum og J.F. Willumsen - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3763,7 +3763,7 @@
             "locationLongitude": 12.050474000000008
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/caring-absurdities/",
             "title": "Caring Absurdities - kunsten.nu - Online magasin og kalender for billedkunst",
@@ -3785,7 +3785,7 @@
             "locationLongitude": 12.5627328
         },
         {
-            "postType": "CULTURE",
+            "postType": "Visual Art",
             "genre": "Visual Arts",
             "url": "https://kunsten.nu/artguide/calendar/martine-myrup-oeregaard-museum/",
             "title": "Martine Myrup x Øregaard Museum: A Bird Sings in the Bush of Your Bones - kunsten.nu - Online magasin og kalender for billedkunst",

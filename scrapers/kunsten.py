@@ -208,7 +208,7 @@ def parse(page:str):
         long = 9.75162625
 
     dic = {
-        "postType": "CULTURE", 
+        "postType": "Visual Art", 
         "genre": genre,
         "url": url,
         "title": title,

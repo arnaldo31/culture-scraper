@@ -157,7 +157,7 @@ def crawl():
                 locationLongitude = 9.75162625
             
             dic = {
-                "postType": "CULTURE", 
+                "postType": "Performing Arts", 
                 "genre": category,
                 "url": ticket,
                 "title": title,

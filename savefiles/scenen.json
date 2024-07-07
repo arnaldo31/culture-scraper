@@ -1,7 +1,7 @@
 {
     "posts": [
         {
-            "postType": "CULTURE",
+            "postType": "Performing Arts",
             "genre": "Nycirkus/Nycirkus for børn og voksne",
             "url": "http://www.roskildeteater.dk",
             "title": "Adrift",
@@ -23,7 +23,7 @@
             "locationLongitude": 12.0802039
         },
         {
-            "postType": "CULTURE",
+            "postType": "Performing Arts",
             "genre": "Performance/Andet",
             "url": "https://www.metropolis.dk/forest-silent-gathering/",
             "title": "FOREST SILENT GATHERING af Begüm Erciyas",
@@ -45,7 +45,7 @@
             "locationLongitude": 12.575567
         },
         {
-            "postType": "CULTURE",
+            "postType": "Performing Arts",
             "genre": "Performance/Kropsteater",
             "url": "https://www.metropolis.dk/en/habitat-2024/",
             "title": "HABITAT af Doris Uhlich",
@@ -67,7 +67,7 @@
             "locationLongitude": 12.610927
         },
         {
-            "postType": "CULTURE",
+            "postType": "Performing Arts",
             "genre": "Skuespil og dramatik/Komedie",
             "url": "http://www.teaterforeningenbornholm.dk",
             "title": "Balder &amp; Dragen",
@@ -89,7 +89,7 @@
             "locationLongitude": 14.6990044
         },
         {
-            "postType": "CULTURE",
+            "postType": "Performing Arts",
             "genre": "Nycirkus/Nycirkus for børn og voksne",
             "url": "http://www.roskildeteater.dk",
             "title": "CameliOrquestra",
@@ -111,7 +111,7 @@
             "locationLongitude": 12.0802039
         },
         {
-            "postType": "CULTURE",
+            "postType": "Performing Arts",
             "genre": "Skuespil og dramatik/Teater for børn",
             "url": "http://www.roskildeteater.dk",
             "title": "Mr.Zap the Clown",
@@ -133,7 +133,7 @@
             "locationLongitude": 12.08174
         },
         {
-            "postType": "CULTURE",
+            "postType": "Performing Arts",
             "genre": "Animation og Dukketeater/Dukketeater for børn",
             "url": "https://billetto.dk/e/skidt-og-pyt-forestilling-hjemmebag-og-leg-billetter-956068",
             "title": "Skidt og Pyt",
@@ -155,7 +155,7 @@
             "locationLongitude": 11.659621
         },
         {
-            "postType": "CULTURE",
+            "postType": "Performing Arts",
             "genre": "Skuespil og dramatik/Teater for børn",
             "url": "https://billetto.dk/e/skidt-og-pyt-pa-store-vaskedag-cafehygge-og-leg-billetter-956057",
             "title": "Skidt og Pyt på Store Vaskedag",
@@ -177,7 +177,7 @@
             "locationLongitude": 11.659621
         },
         {
-            "postType": "CULTURE",
+            "postType": "Performing Arts",
             "genre": "Animation og Dukketeater/Animations- og dukketeater for børn og voksne",
             "url": "https://www.teaterbilletter.dk/link/eventcode/EV0036635-2324",
             "title": "Den forunderlige rejse",
@@ -199,7 +199,7 @@
             "locationLongitude": 12.5764496
         },
         {
-            "postType": "CULTURE",
+            "postType": "Performing Arts",
             "genre": "Performance/Kropsteater",
             "url": "https://www.teaterbilletter.dk/link/eventcode/EV0036685-2324",
             "title": "Fusskopf",
@@ -221,7 +221,7 @@
             "locationLongitude": 12.098354
         },
         {
-            "postType": "CULTURE",
+            "postType": "Performing Arts",
             "genre": "Animation og Dukketeater/Animations- og dukketeater for børn og voksne",
             "url": "https://www.teaterbilletter.dk/link/eventcode/EV0036682-2324",
             "title": "Tommelise",
@@ -243,7 +243,7 @@
             "locationLongitude": 12.098354
         },
         {
-            "postType": "CULTURE",
+            "postType": "Performing Arts",
             "genre": "Skuespil og dramatik/Teater for børn",
             "url": "https://www.teaterbilletter.dk/link/eventcode/EV0036679-2324",
             "title": "Kejserens nye klæder",
@@ -265,7 +265,7 @@
             "locationLongitude": 12.098354
         },
         {
-            "postType": "CULTURE",
+            "postType": "Performing Arts",
             "genre": "Skuespil og dramatik/Andet",
             "url": "https://www.teaterbilletter.dk/link/eventcode/EV0036429-2324",
             "title": "Troilus og Cressida",
@@ -287,7 +287,7 @@
             "locationLongitude": 12.621811
         },
         {
-            "postType": "CULTURE",
+            "postType": "Performing Arts",
             "genre": "Skuespil og dramatik/Klassisk skuespil",
             "url": "https://www.teaterbilletter.dk/link/eventcode/EV0036499-2324",
             "title": "En ideel ægtemand",
@@ -309,7 +309,7 @@
             "locationLongitude": 12.589828
         },
         {
-            "postType": "CULTURE",
+            "postType": "Performing Arts",
             "genre": "Musical og Operette/Musical",
             "url": "https://www.teaterbilletter.dk/link/eventcode/EV0036589-2324",
             "title": "Grauballemanden the musical",
@@ -331,7 +331,7 @@
             "locationLongitude": 12.301373
         },
         {
-            "postType": "CULTURE",
+            "postType": "Performing Arts",
             "genre": "Musikteater/Musikteater for unge og voksne",
             "url": "https://www.teaterbilletter.dk/link/eventcode/EV0036746-2324",
             "title": "DRØMMEN",
@@ -353,7 +353,7 @@
             "locationLongitude": 12.457565
         },
         {
-            "postType": "CULTURE",
+            "postType": "Performing Arts",
             "genre": "Musikteater/Musikteater for børn og voksne",
             "url": "https://www.musikhuset.dk/kalender/sallys-far",
             "title": "Sallys Far",
