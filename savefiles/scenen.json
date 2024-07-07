@@ -1,0 +1,378 @@
+{
+    "posts": [
+        {
+            "postType": "CULTURE",
+            "genre": "Nycirkus/Nycirkus for børn og voksne",
+            "url": "http://www.roskildeteater.dk",
+            "title": "Adrift",
+            "address": "Stændertorvet 1 , 4000 Roskilde",
+            "openingHours": "16:00",
+            "body": "En lille sejlbåd har lagt til i havnen og to sejlere byder publikum velkommen ombord på deres sejlbåd.  \nI denne fysiske forestilling ’Adrift’ bliver publikum taget med på et episk sejlads-eventyr, som kan nydes uden at få våde fødder. Hvad byder havet på af ukendte skatte, spændende eventyr, uforudsete udfordringer og mystiske havdyr? Og hvad vil det egentlig sige at være sejler? Ved brug af performernes egne kroppe, imponerende akrobatik og humor bliver havets fascinerende univers undersøgt og sejlerlivet udforsket og fortolket.  \n",
+            "monthlySchedule": {
+                "startDate": "2024-07-31T16:00:00.000Z",
+                "endDate": "2024-07-31T16:00:00.000Z"
+            },
+            "photos": [
+                {
+                    "provider": "https://www.tereba.dk/medias/2024-05/pd0033706_2324_526223_1024x538px.jpg"
+                }
+            ],
+            "channel": "@public",
+            "parent": "ROOT",
+            "locationLatitude": 55.6411991,
+            "locationLongitude": 12.0802039
+        },
+        {
+            "postType": "CULTURE",
+            "genre": "Performance/Andet",
+            "url": "https://www.metropolis.dk/forest-silent-gathering/",
+            "title": "FOREST SILENT GATHERING af Begüm Erciyas",
+            "address": "Granatvej 3-15, 2770 Kastrup",
+            "openingHours": "19:00",
+            "body": "I en lysning midt i skoven mødes du med 14 andre mennesker. I får hver et sæt høretelefoner. Hver gang du hører signalet, træder du et par skridt bagud. Langsomt, langsomt fjerner du dig fra de andre. De forsvinder mellem træerne. Forest Silent Gathering er en forsamling i stilhed. Det, der sker, foregår hovedsageligt inde i dig selv. Hvad sker der, når du bevæger dig længere og længere væk fra gruppens trygge favn, mens mørket sænker sig? Hvor stor skal afstanden være, før fællesskabets sociale bånd brister? Hvad har du så at orientere dig mod? Hvad forestiller du dig, der sker omkring dig? Og med de andre i gruppen? Er der andre former for liv, der gør sig bemærket?",
+            "monthlySchedule": {
+                "startDate": "2024-08-06T19:00:00.000Z",
+                "endDate": "2024-08-06T19:00:00.000Z"
+            },
+            "photos": [
+                {
+                    "provider": "https://www.tereba.dk/medias/2024-06/pd0033648_2324_526466_1024x538px.jpg"
+                }
+            ],
+            "channel": "@public",
+            "parent": "ROOT",
+            "locationLatitude": 55.614551,
+            "locationLongitude": 12.575567
+        },
+        {
+            "postType": "CULTURE",
+            "genre": "Performance/Kropsteater",
+            "url": "https://www.metropolis.dk/en/habitat-2024/",
+            "title": "HABITAT af Doris Uhlich",
+            "address": "Refshalevej 141, 1432 København K",
+            "openingHours": "19:00",
+            "body": "HABITAT er 40 kroppes søgen efter et nyt habitat. De er vidt forskellige, men ens i deres nøgenhed. Det er livfuldt og menneskeligt, når de mødes, brydes og finder fælles energi. Både stormfuldt berusende og sjælfuldt poetisk. De er frie, og deres frihed sætter os fri.\n\nLydbilledet pulserer op og ned mellem insisterende teknorytmer og meditative frekvenser. Hvor hører disse kroppe hjemme?\n\nHabitat er en fejring af alle kroppe, alle aldre, alle køn. 40 menneskekroppe skaber et fælles ritual, hvor alle er velkomne. De 40 kroppe fører dig på vandring rundt på Refshaleøen – fra industriens fortid til den fremtid, vi kan skimte i det fjerne med konstruktionen af en ny ø. Et nyt habitat.\n",
+            "monthlySchedule": {
+                "startDate": "2024-08-01T19:00:00.000Z",
+                "endDate": "2024-08-01T19:00:00.000Z"
+            },
+            "photos": [
+                {
+                    "provider": "https://www.tereba.dk/medias/2024-06/pd0033647_2324_526451_1024x538px.jpg"
+                }
+            ],
+            "channel": "@public",
+            "parent": "ROOT",
+            "locationLatitude": 55.689319,
+            "locationLongitude": 12.610927
+        },
+        {
+            "postType": "CULTURE",
+            "genre": "Skuespil og dramatik/Komedie",
+            "url": "http://www.teaterforeningenbornholm.dk",
+            "title": "Balder &amp; Dragen",
+            "address": "Teaterstræde 2, 3700 Rønne",
+            "openingHours": "11:00",
+            "body": "På sit dødsleje gør Balders far ham arveløs. Balder pakker sin luth og sine få ejendele og drager til den store by. Indenfor murerne hersker kongens soldater. Der er præster og vækkelsesprædikanter, men intet arbejde at få. Balder er sulten og fortvivlet, men så går et gardin til side og han ser den skønne prinsesse. Balder sætter sig og spiller romantiske toner. Prinsessen hører ham og bliver smaskforelsket.\n\nDagen efter er der ridderturnering. Præmien er prinsessen og det halve kongerige, men først skal en frygtelig drage bekæmpes. Ved skæbnens ugunst (eller gunst) får Balder distraheret en ridder, der mister sit hoved. Kort tid efter er Balder blevet væbner for turneringens vinder og på v",
+            "monthlySchedule": {
+                "startDate": "2024-07-26T11:00:00.000Z",
+                "endDate": "2024-07-26T11:00:00.000Z"
+            },
+            "photos": [
+                {
+                    "provider": "https://www.tereba.dk/medias/2024-05/pd0033332_2324_526338_1024x538px.jpg"
+                }
+            ],
+            "channel": "@public",
+            "parent": "ROOT",
+            "locationLatitude": 55.0995718,
+            "locationLongitude": 14.6990044
+        },
+        {
+            "postType": "CULTURE",
+            "genre": "Nycirkus/Nycirkus for børn og voksne",
+            "url": "http://www.roskildeteater.dk",
+            "title": "CameliOrquestra",
+            "address": "Stændertorvet 1 , 4000 Roskilde",
+            "openingHours": "16:00",
+            "body": "Cameliorchestra er en multiforestilling der med sin overvældende fusion af livemusik og imponerende nycirkus er garanteret til at imponere publikum på alle fronter. \nOrkestrets medlemmer der alle er vanvittigt dygtige nycirkusartister sørger for en vild blanding af nervepirren, poesi, humor og en konstant spænding hos publikum.\nBandets musik er en fusion af nordisk folk-punk-gypsy-funk og skaber konstant skiftende stemninger blandt de imponerende færdigheder.\nForestillingen er meget fleksibel, og henvender sig meget bredt til al slags publikum. \nDen kan spille inden- og udendørs, og kan tilpasses specielle arrangementer.",
+            "monthlySchedule": {
+                "startDate": "2024-07-24T16:00:00.000Z",
+                "endDate": "2024-07-24T16:00:00.000Z"
+            },
+            "photos": [
+                {
+                    "provider": "https://www.tereba.dk/medias/2024-02/pd0033260_2324_511724_1024x538px.jpg"
+                }
+            ],
+            "channel": "@public",
+            "parent": "ROOT",
+            "locationLatitude": 55.6411991,
+            "locationLongitude": 12.0802039
+        },
+        {
+            "postType": "CULTURE",
+            "genre": "Skuespil og dramatik/Teater for børn",
+            "url": "http://www.roskildeteater.dk",
+            "title": "Mr.Zap the Clown",
+            "address": "Stændertorvet 3 c, 4000 Roskilde",
+            "openingHours": "16:00",
+            "body": "Murphys lov lyder at alt hvad der kan gå galt, vil gå galt, på sin egen intuitive, finurlige og publikums inddragende facon udfolder forestillingen Mr.Zap The Clown netop den tese. Asger Zaps har publikum i sin hule hånd og dirigerer os igennem en rejse, der fortæller os at selvom du forsøger dig og det går galt, så skal du ikke være bange for at prøve igen, \nfor i sidste ende skal du nok finde hvad du er god til og \nlykkedes med det. Forestilingens smittende og medrivende \nfortælling engagerer sit publikum, og holder dem hele tiden \nnysgerrigt og man efterlades med store grin og stor \nindlevelse i forestillingens 35 minutters varighed. \n3xawards på den internationaleteaterfestival i Irbid",
+            "monthlySchedule": {
+                "startDate": "2024-07-17T16:00:00.000Z",
+                "endDate": "2024-07-17T16:00:00.000Z"
+            },
+            "photos": [
+                {
+                    "provider": "https://www.tereba.dk/medias/2023-12/pd0032535_2324_501236_1024x538px.jpg"
+                }
+            ],
+            "channel": "@public",
+            "parent": "ROOT",
+            "locationLatitude": 55.641724,
+            "locationLongitude": 12.08174
+        },
+        {
+            "postType": "CULTURE",
+            "genre": "Animation og Dukketeater/Dukketeater for børn",
+            "url": "https://billetto.dk/e/skidt-og-pyt-forestilling-hjemmebag-og-leg-billetter-956068",
+            "title": "Skidt og Pyt",
+            "address": "Gl. Skovvej 120, 4300 Holbæk",
+            "openingHours": "10:30",
+            "body": "En forestilling om familie, venskaber, drillerier og tilgivelse, samt det at lytte, mærke efter og sige ”Skidt Pyt!”.\nForestillingen tager udgangspunkt i den familie, der boede på gården i gamle dage. Her var far og mor, otte børn, en kokkepige og en staldkarl. Arbejde var der meget af - tid til leg var der mindre af. Men Skidt og Pyt gør sit til, at børnene får det lidt sjovt - og så sker det jo, at de går over stregen, så skænderier og uvenskab svirrer i luften. Heldigvis er Skidt og Pyt jo mestre i at hjælpe, så glæde, leg og venskab bevares.\nPris er inklusiv: Forestilling, hjemmebagt kage og drikkevarer og mulighed for leg i den hyggelige cafè og ude i gårdhaven i op til tre timer.\n",
+            "monthlySchedule": {
+                "startDate": "2024-07-30T10:30:00.000Z",
+                "endDate": "2024-07-30T10:30:00.000Z"
+            },
+            "photos": [
+                {
+                    "provider": "https://www.tereba.dk/medias/2024-03/ev0037008_2324_518359_1024x538px.jpg"
+                }
+            ],
+            "channel": "@public",
+            "parent": "ROOT",
+            "locationLatitude": 55.657814,
+            "locationLongitude": 11.659621
+        },
+        {
+            "postType": "CULTURE",
+            "genre": "Skuespil og dramatik/Teater for børn",
+            "url": "https://billetto.dk/e/skidt-og-pyt-pa-store-vaskedag-cafehygge-og-leg-billetter-956057",
+            "title": "Skidt og Pyt på Store Vaskedag",
+            "address": "Gl. Skovvej 120, 4300 Holbæk",
+            "openingHours": "10:30",
+            "body": "På Store vaskedag sætter Skidt og Pyts uskyldige forsøg på at lave lidt sjov, gang i en række hændelser, der gør, at lille Solvei forsvinder! Dette afstedkommer stor skræk for den ellers så modige staldkarl, forfærdelse for barnepigen - og undren for drengen…har han mon virkeligt  tryllet Solvei væk? Forvikling opstår, men mon ikke alt ender godt ved hjælp fra Skidt og Pyt. \nEfterfølgende er der hygge med hjemmebag og til dette arrangement kan børnene lave Skidt og Pyt som pindedukker.\nInklusiv i prisen er: Teaterforestilling, hjemmebagt kage, drikkevarer, teaterpindedukker og mulighed for en masse leg i de hyggelige omgivelser både inde i cafelokalerne og ude i gårdhaven i op til tre timer",
+            "monthlySchedule": {
+                "startDate": "2024-07-09T10:30:00.000Z",
+                "endDate": "2024-07-09T10:30:00.000Z"
+            },
+            "photos": [
+                {
+                    "provider": "https://www.tereba.dk/medias/2023-12/pd0032580_2324_505126_1024x538px.jpg"
+                }
+            ],
+            "channel": "@public",
+            "parent": "ROOT",
+            "locationLatitude": 55.657814,
+            "locationLongitude": 11.659621
+        },
+        {
+            "postType": "CULTURE",
+            "genre": "Animation og Dukketeater/Animations- og dukketeater for børn og voksne",
+            "url": "https://www.teaterbilletter.dk/link/eventcode/EV0036635-2324",
+            "title": "Den forunderlige rejse",
+            "address": "Øster Voldgade 4 a, 1350 København K",
+            "openingHours": "14:00",
+            "body": "FORESTILLINGEN ER GRATIS. BILLETKØB ER IKKE MULIGT. \n\nEt barn må forlade sit hjem. Med en fugl som sin følgesvend begiver barnet sig ud på en rejse, der byder på både udfordringer og venner.\n\nDen forunderlige rejse er en billedrig og musikalsk familieforestilling om det at høre til.\n\nMarionet Teatret i Kongens Have.",
+            "monthlySchedule": {
+                "startDate": "2024-07-07T14:00:00.000Z",
+                "endDate": "2024-07-07T14:00:00.000Z"
+            },
+            "photos": [
+                {
+                    "provider": "https://www.tereba.dk/medias/2024-06/ev0036635_2324_526620_1024x538px.jpg"
+                }
+            ],
+            "channel": "@public",
+            "parent": "ROOT",
+            "locationLatitude": 55.6863881,
+            "locationLongitude": 12.5764496
+        },
+        {
+            "postType": "CULTURE",
+            "genre": "Performance/Kropsteater",
+            "url": "https://www.teaterbilletter.dk/link/eventcode/EV0036685-2324",
+            "title": "Fusskopf",
+            "address": "Skovhusevej 26, 4720 Præstø",
+            "openingHours": "12:00",
+            "body": "Fusskopf er en forestilling for de allermindste.\nFusskopf er en mand med fem fødder.\nFusskopf elsker at danse, hoppe, løbe og gå. \nJa han elsker alt det man kan gøre på sine fødder.\nPå sin enkle opdagelsesrejse, finder han alle sine sanser frem.\nMen han ved ikke altid hvad han skal bruge sanserne til.\nSammen med publikum lærer han sanserne at kende.\nForestillingen er uden forståelige ord, \nmen med masser af lyd og skøn musik. \nJa når musikken spiller kan det være svært at sidde stille.\nOg så er det godt at det er en udendørs forestilling, så man kan danse med.\n",
+            "monthlySchedule": {
+                "startDate": "2024-07-15T12:00:00.000Z",
+                "endDate": "2024-07-15T12:00:00.000Z"
+            },
+            "photos": [
+                {
+                    "provider": "https://www.tereba.dk/medias/2023-12/pd0032425_2324_499379_1024x538px.jpg"
+                }
+            ],
+            "channel": "@public",
+            "parent": "ROOT",
+            "locationLatitude": 55.118802,
+            "locationLongitude": 12.098354
+        },
+        {
+            "postType": "CULTURE",
+            "genre": "Animation og Dukketeater/Animations- og dukketeater for børn og voksne",
+            "url": "https://www.teaterbilletter.dk/link/eventcode/EV0036682-2324",
+            "title": "Tommelise",
+            "address": "Skovhusevej 26, 4720 Præstø",
+            "openingHours": "12:00",
+            "body": "Det er historien om verdens mindste pige og hendes rejse for at finde det som giver livet mening. Vi oplever Tommelises poetiske tur, gennem naturens universer, fyldt af utryghed, hjælpsomhed, udfordringer, og vi møder dem som gør hende til den, hun er.  \nPå trods af hendes størrelse, bevarer hun håbet, og lader skæbnen føre hende derhen hvor hun finder nogen på sin egen størrelse. \n\nTommelise (en dukke) på størrelse med  en underarm, hoppe let mellem de to performere, på vej ud i livet. De to mænd, er som de usynlige hænder, der blidt skubber Tommelise ud i livet.De to performere igangsætter dramatikken, laver forhindringerne og løser dem samtidig, nogen gange med en knytnæve og andre ga",
+            "monthlySchedule": {
+                "startDate": "2024-07-08T12:00:00.000Z",
+                "endDate": "2024-07-08T12:00:00.000Z"
+            },
+            "photos": [
+                {
+                    "provider": "https://www.tereba.dk/medias/2024-01/pd0033087_2324_509668_1024x538px.jpg"
+                }
+            ],
+            "channel": "@public",
+            "parent": "ROOT",
+            "locationLatitude": 55.118802,
+            "locationLongitude": 12.098354
+        },
+        {
+            "postType": "CULTURE",
+            "genre": "Skuespil og dramatik/Teater for børn",
+            "url": "https://www.teaterbilletter.dk/link/eventcode/EV0036679-2324",
+            "title": "Kejserens nye klæder",
+            "address": "Skovhusevej 26, 4720 Præstø",
+            "openingHours": "12:00",
+            "body": "Kejserens nye klæder. For mange år siden levede en kejser, som holdt så uhyre meget af smukke nye klæder, at han gav alle sine penge ud for ret at blive pyntet. Sådan starter det vidunderlige eventyr, om Kejseren som er så fokuseret på sit eget udseende at han slet ikke opfatter, at to svindler er i gang med at bedrage ham, og hele hoffet. Svindlerne foregiver at væve et sæt tøj som aldrig er set magen til. Hvis man ikke kan se det, er man enten dum eller duer ikke til sit arbejde. Indtil en lille uskyldig dreng, vækker alle sammen ved at sige ”Han har jo ikke noget tøj på”. Forestillinger er en tour de force som med megen humor jagter de forfængelige og svindlerne. familieforestilling.",
+            "monthlySchedule": {
+                "startDate": "2024-07-07T12:00:00.000Z",
+                "endDate": "2024-07-07T12:00:00.000Z"
+            },
+            "photos": [
+                {
+                    "provider": "https://www.tereba.dk/medias/2024-01/pd0033101_2324_509788_1024x538px.jpg"
+                }
+            ],
+            "channel": "@public",
+            "parent": "ROOT",
+            "locationLatitude": 55.118802,
+            "locationLongitude": 12.098354
+        },
+        {
+            "postType": "CULTURE",
+            "genre": "Skuespil og dramatik/Andet",
+            "url": "https://www.teaterbilletter.dk/link/eventcode/EV0036429-2324",
+            "title": "Troilus og Cressida",
+            "address": "KRONVÆRKSBYEN KRONBORG 16, 3000 Helsingør",
+            "openingHours": "19:00",
+            "body": "",
+            "monthlySchedule": {
+                "startDate": "2024-08-05T19:00:00.000Z",
+                "endDate": "2024-08-05T19:00:00.000Z"
+            },
+            "photos": [
+                {
+                    "provider": "https://www.tereba.dk/medias/2024-02/pd0032711_2324_511365_1024x538px.jpg"
+                }
+            ],
+            "channel": "@public",
+            "parent": "ROOT",
+            "locationLatitude": 56.037821,
+            "locationLongitude": 12.621811
+        },
+        {
+            "postType": "CULTURE",
+            "genre": "Skuespil og dramatik/Klassisk skuespil",
+            "url": "https://www.teaterbilletter.dk/link/eventcode/EV0036499-2324",
+            "title": "En ideel ægtemand",
+            "address": "Bredgade 28, 1260 København K",
+            "openingHours": "19:00",
+            "body": "Velkommen til sommerens store forestilling i haven bag det smukke Odd Fellow Palæ og til Oscar Wildes forrygende vittige komedie om moral, hykleri – og kærlighed.\n\nKom med til London anno 1895, hvor politikeren Robert Chiltern og hans hustru er centrum for byens society-liv, og udadtil er det højt respekterede og perfekte par, - ja, en sandt power couple.  Men Robert Chiltern - den ideelle ægtemand - gemmer på hemmeligheder om sin vej til magten...\n\nEN IDEEL ÆGTEMAND er skrevet af den store britiske forfatter Oscar Wilde, hvis vid, humor, skarpe replikker og sociale observationer fortsat rammer og underholder på mesterlig vis.",
+            "monthlySchedule": {
+                "startDate": "2024-07-08T19:00:00.000Z",
+                "endDate": "2024-07-08T19:00:00.000Z"
+            },
+            "photos": [
+                {
+                    "provider": "https://www.tereba.dk/medias/2024-04/pd0032794_2324_519965_1024x538px.jpg"
+                }
+            ],
+            "channel": "@public",
+            "parent": "ROOT",
+            "locationLatitude": 55.682886,
+            "locationLongitude": 12.589828
+        },
+        {
+            "postType": "CULTURE",
+            "genre": "Musical og Operette/Musical",
+            "url": "https://www.teaterbilletter.dk/link/eventcode/EV0036589-2324",
+            "title": "Grauballemanden the musical",
+            "address": "Holtvej 33, 3230 Græsted",
+            "openingHours": "19:30",
+            "body": "Mosebunden er nået. Det lyder umiddelbart lidt støvet, men glem alt om, hvad du lærte i historietimerne. Det her er crazy musical-comedy på hæsblæsende niveau med komikeren Anders Grau i titelrollen. Velkommen til en rablende vanvittig fortælling om nationalklenodiets sidste dage, inden han blev kastet i en mose og ofret til jernalderens guder. Grauballemanden  er blevet indlagt på kommunehospitalet. Nu skal det gennem scanninger og dna-prøver vise sig, hvem han i virkelig var, og det bliver en nat museumsinspektøren aldrig glemmer.  Glæd dig til en af sommerens store oplevelser. Efter sidste års succes er Nordsjællands Teater klar med en ny forestilling på udendørsscenen midt i den smukke \n",
+            "monthlySchedule": {
+                "startDate": "2024-08-01T19:30:00.000Z",
+                "endDate": "2024-08-01T19:30:00.000Z"
+            },
+            "photos": [
+                {
+                    "provider": "https://www.tereba.dk/medias/2024-02/ev0036589_2324_516119_1024x538px.jpg"
+                }
+            ],
+            "channel": "@public",
+            "parent": "ROOT",
+            "locationLatitude": 56.085305,
+            "locationLongitude": 12.301373
+        },
+        {
+            "postType": "CULTURE",
+            "genre": "Musikteater/Musikteater for unge og voksne",
+            "url": "https://www.teaterbilletter.dk/link/eventcode/EV0036746-2324",
+            "title": "DRØMMEN",
+            "address": "Nybrovej 401, 2800 Kongens Lyngby",
+            "openingHours": "17:00",
+            "body": "I DRØMMEN flyder historien om et samfund i forandring sammen med Helle Virkners og Jens Otto Krags ægteskab. Det er fortællingen om, hvordan det danske velfærdssamfund udviklede sig fra et forarmet landbrugsland til moderne industrisamfund, med nye frihedsidealer, forventninger om selvrealisering og frihed fra autoriteter – DRØMMEN om dén samfundskontrakt vi stadig er bundet af i dag.",
+            "monthlySchedule": {
+                "startDate": "2024-07-29T17:00:00.000Z",
+                "endDate": "2024-07-29T17:00:00.000Z"
+            },
+            "photos": [
+                {
+                    "provider": "https://www.tereba.dk/medias/2024-03/pd0032714_2324_518248_1024x538px.jpg"
+                }
+            ],
+            "channel": "@public",
+            "parent": "ROOT",
+            "locationLatitude": 55.775231,
+            "locationLongitude": 12.457565
+        },
+        {
+            "postType": "CULTURE",
+            "genre": "Musikteater/Musikteater for børn og voksne",
+            "url": "https://www.musikhuset.dk/kalender/sallys-far",
+            "title": "Sallys Far",
+            "address": "Thomas Jensens Allé 2, 8000 Aarhus C",
+            "openingHours": "12:00",
+            "body": "Sallys far er sygt pinlig. F.eks. når han får den skøre idé, at han vil være youtuber, eller når han beslutter sig for, at han ikke gider at være voksen, så han og Sally må bytte roller. Han er også en vildt dårlig taber, og når han får mandeinfluenza, er det Sally, der må sørge for, at han får kiks og kakaomælk. Men kedelig – DET er Sallys far ikke!\n\nDe populære bøger ”Sallys Far” er udgangspunktet for Louise Schouw Teaters helt nye forestilling med masser af sjov, ballade, rørende øjeblikke og nyskrevne sange, komponeret af Sigurd Barrett & Eskild Dohn. Her møder vi Sally, hendes lillebror, Eddie, hendes ven, Svend, og ikke mindst Sallys sjove og skøre far, der ikke er som andre fædre.",
+            "monthlySchedule": {
+                "startDate": "2024-10-19T12:00:00.000Z",
+                "endDate": "2024-10-19T12:00:00.000Z"
+            },
+            "photos": [
+                {
+                    "provider": "https://www.tereba.dk/medias/2023-09/pd0031818_2324_490703_1024x538px.jpg"
+                }
+            ],
+            "channel": "@public",
+            "parent": "ROOT",
+            "locationLatitude": 56.152717,
+            "locationLongitude": 10.1992689
+        }
+    ]
+}
