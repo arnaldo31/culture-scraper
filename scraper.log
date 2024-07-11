@@ -194,3 +194,971 @@
 08-Jul-24 06:05:13 :  completed - Caring Absurdities - kunsten.nu - Online magasin og kalender for billedkunst
 08-Jul-24 06:05:13 :  completed - Martine Myrup x Øregaard Museum: A Bird Sings in the Bush of Your Bones - kunsten.nu - Online magasin og kalender for billedkunst
 08-Jul-24 06:05:13 :  completed - total: 173
+12-Jul-24 04:54:28 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 04:54:28 :  Starting  - (scenen.py) scraper
+12-Jul-24 04:55:38 :  completed - Sulky M1
+12-Jul-24 04:55:40 :  completed - Adrift
+12-Jul-24 04:55:52 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 04:55:52 :  Starting  - (scenen.py) scraper
+12-Jul-24 04:55:57 :  completed - Sulky M1
+12-Jul-24 04:55:59 :  completed - Adrift
+12-Jul-24 04:56:01 :  completed - FOREST SILENT GATHERING af Begüm Erciyas
+12-Jul-24 04:56:02 :  completed - HABITAT af Doris Uhlich
+12-Jul-24 04:56:04 :  completed - Bloody Moon (Main Show)
+12-Jul-24 04:56:06 :  completed - Børne- og familiepas (Børneworkshop/The Still Dying Swan)
+12-Jul-24 04:56:08 :  completed - Dance With Us (The Still Dying Swan/Dance Workshop)
+12-Jul-24 04:56:10 :  completed - Balder &amp; Dragen
+12-Jul-24 04:56:11 :  completed - CameliOrquestra
+12-Jul-24 04:56:13 :  completed - Mr.Zap the Clown
+12-Jul-24 04:56:15 :  completed - Forestillingspas (When We Break + Bloody Moon)
+12-Jul-24 04:56:17 :  completed - Forestillingspas+ (When We Break/Bloody Moon/Ballroom)
+12-Jul-24 04:56:18 :  completed - Monster Miniball
+12-Jul-24 04:56:20 :  completed - The Battle
+12-Jul-24 04:56:22 :  completed - Skidt og Pyt
+12-Jul-24 04:56:24 :  completed - Skidt og Pyt på Store Vaskedag
+12-Jul-24 04:56:26 :  completed - Den forunderlige rejse
+12-Jul-24 04:56:27 :  completed - Fusskopf
+12-Jul-24 04:56:29 :  completed - Tommelise
+12-Jul-24 04:56:31 :  completed - Den allersidste dans
+12-Jul-24 04:56:34 :  completed - Søren Elsker Katinka
+12-Jul-24 04:56:36 :  completed - Troilus og Cressida
+12-Jul-24 04:58:21 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 04:58:21 :  Starting  - (scenen.py) scraper
+12-Jul-24 04:59:12 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 04:59:12 :  Starting  - (scenen.py) scraper
+12-Jul-24 04:59:46 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 04:59:46 :  Starting  - (scenen.py) scraper
+12-Jul-24 05:00:20 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:00:20 :  Starting  - (scenen.py) scraper
+12-Jul-24 05:00:50 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:00:50 :  Starting  - (scenen.py) scraper
+12-Jul-24 05:11:17 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:11:17 :  Starting  - (scenen.py) scraper
+12-Jul-24 05:11:22 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:11:22 : An error occurred: (scrapers\scenen.py)
+Traceback (most recent call last):
+  File "c:\Users\art\OneDrive\Desktop\culture-scraper\scrapers\scenen.py", line 195, in run
+    crawl()
+  File "c:\Users\art\OneDrive\Desktop\culture-scraper\scrapers\scenen.py", line 124, in crawl
+    tableData = soup2.find(class_='tableData').find(class_='venue-dates').parent
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'find'
+
+12-Jul-24 05:11:22 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:11:53 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:11:53 :  Starting  - (scenen.py) scraper
+12-Jul-24 05:11:58 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:11:58 : An error occurred: (scrapers\scenen.py)
+Traceback (most recent call last):
+  File "c:\Users\art\OneDrive\Desktop\culture-scraper\scrapers\scenen.py", line 195, in run
+    crawl()
+  File "c:\Users\art\OneDrive\Desktop\culture-scraper\scrapers\scenen.py", line 124, in crawl
+    tableData = soup2.find(class_='tableData').find(class_='venue-dates').parent
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'find'
+
+12-Jul-24 05:11:58 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:12:53 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:12:53 :  Starting  - (scenen.py) scraper
+12-Jul-24 05:12:58 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:12:58 : An error occurred: (scrapers\scenen.py)
+Traceback (most recent call last):
+  File "c:\Users\art\OneDrive\Desktop\culture-scraper\scrapers\scenen.py", line 198, in run
+    crawl()
+  File "c:\Users\art\OneDrive\Desktop\culture-scraper\scrapers\scenen.py", line 127, in crawl
+    tableData = soup2.find(class_='tableData').find(class_='venue-dates').parent
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'find'
+
+12-Jul-24 05:12:58 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:13:41 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:13:41 :  Starting  - (scenen.py) scraper
+12-Jul-24 05:13:47 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:13:47 : An error occurred: (scrapers\scenen.py)
+Traceback (most recent call last):
+  File "c:\Users\art\OneDrive\Desktop\culture-scraper\scrapers\scenen.py", line 198, in run
+    crawl()
+  File "c:\Users\art\OneDrive\Desktop\culture-scraper\scrapers\scenen.py", line 127, in crawl
+    tableData = soup2.find(class_='tableData').find(class_='venue-dates').parent
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'find'
+
+12-Jul-24 05:13:47 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:14:46 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:14:46 :  Starting  - (scenen.py) scraper
+12-Jul-24 05:15:54 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:15:54 :  Starting  - (scenen.py) scraper
+12-Jul-24 05:19:23 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:19:23 :  Starting  - (scenen.py) scraper
+12-Jul-24 05:19:29 :  completed - Børglums Stemmer
+12-Jul-24 05:19:31 :  completed - Efterårskort 2024
+12-Jul-24 05:20:13 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:20:13 :  Starting  - (scenen.py) scraper
+12-Jul-24 05:20:19 :  completed - Børglums Stemmer
+12-Jul-24 05:20:21 :  completed - Efterårskort 2024
+12-Jul-24 05:20:23 :  completed - Mustafas Kiosk
+12-Jul-24 05:20:24 :  completed - Greyline af Renae Shadler
+12-Jul-24 05:20:26 :  completed - Brevet
+12-Jul-24 05:20:28 :  completed - 90-års fødselsdagen
+12-Jul-24 05:20:30 :  completed - Midt I Livet
+12-Jul-24 05:20:31 :  completed - Slit Show
+12-Jul-24 05:20:33 :  completed - KÅLOSSAL LANGBORDSMIDDAG
+12-Jul-24 05:20:35 :  completed - SYDHAVN BRÆNDER
+12-Jul-24 05:20:36 :  completed - ANNA ROEMER x LIV DUVÅ
+12-Jul-24 05:20:38 :  completed - Klub Kreatur: EXTRACTIONS
+12-Jul-24 05:20:40 :  completed - Klub Kreatur: MR. ROBBIES BØRNETIME
+12-Jul-24 05:20:42 :  completed - MELANIA BLINK TWICE IF YOU NEED HELP
+12-Jul-24 05:20:43 :  completed - Embracing the Root
+12-Jul-24 05:20:45 :  completed - Southern Beads
+12-Jul-24 05:20:47 :  completed - Mother Soldier
+12-Jul-24 05:20:49 :  completed - Du er en dag imorgen - et rumligt hørespil om klasseværelset som kampzone
+12-Jul-24 05:20:50 :  completed - Eutopia
+12-Jul-24 05:20:53 :  completed - Den hellige nat
+12-Jul-24 05:20:55 :  completed - Ivalus første Sang
+12-Jul-24 05:20:57 :  completed - Kældermennesket
+12-Jul-24 05:20:58 :  completed - Min søster er en havfrue
+12-Jul-24 05:21:00 :  completed - TANGO
+12-Jul-24 05:21:02 :  completed - Sulky M1
+12-Jul-24 05:21:04 :  completed - Adrift
+12-Jul-24 05:21:05 :  completed - To mænd og en planke
+12-Jul-24 05:21:07 :  completed - Popcorn
+12-Jul-24 05:21:09 :  completed - The Laughing Crowd
+12-Jul-24 05:21:11 :  completed - MÅST the show go on?!
+12-Jul-24 05:21:12 :  completed - Under Skov
+12-Jul-24 05:21:14 :  completed - Cumulus af Andrea Gunnlaugsdottir &amp; Claudia Lomoschitz
+12-Jul-24 05:21:16 :  completed - THE LOVER af Bára Sigfúsdóttir
+12-Jul-24 05:21:18 :  completed - FOREST SILENT GATHERING af Begüm Erciyas
+12-Jul-24 05:21:19 :  completed - HABITAT af Doris Uhlich
+12-Jul-24 05:21:21 :  completed - Ruzalka
+12-Jul-24 05:21:23 :  completed - Correlations - Meetings in the Multiverse
+12-Jul-24 05:21:25 :  completed - SANDKIND
+12-Jul-24 05:21:27 :  completed - Beatles om søndagen
+12-Jul-24 05:21:29 :  completed - HVEM HAR TIDEN?
+12-Jul-24 05:21:31 :  completed - Bloody Moon (Main Show)
+12-Jul-24 05:21:33 :  completed - SOLASTALGIA
+12-Jul-24 05:21:34 :  completed - Gravalvorlig
+12-Jul-24 05:21:36 :  completed - TEATERKONCERT KØBENHAVN
+12-Jul-24 05:21:38 :  completed - Drøm om efteråret
+12-Jul-24 05:21:39 :  completed - Det magiske Tivoliteater
+12-Jul-24 05:21:41 :  completed - Der Weltuntergang
+12-Jul-24 05:21:43 :  completed - Hans
+12-Jul-24 05:21:45 :  completed - MOLTA
+12-Jul-24 05:21:46 :  completed - Men her går det godt
+12-Jul-24 05:21:48 :  completed - Børne- og familiepas (Børneworkshop/The Still Dying Swan)
+12-Jul-24 05:21:50 :  completed - Dance With Us (The Still Dying Swan/Dance Workshop)
+12-Jul-24 05:21:51 :  completed - Hjemme hos Alfons Åberg
+12-Jul-24 05:21:53 :  completed - To i et hus - og en mus
+12-Jul-24 05:21:55 :  completed - Lazarus
+12-Jul-24 05:21:56 :  completed - En Heldig Kartoffel
+12-Jul-24 05:21:58 :  completed - En lille nisse rejste
+12-Jul-24 05:22:00 :  completed - At Dele Et Liv
+12-Jul-24 05:22:02 :  completed - På Pletten
+12-Jul-24 05:22:04 :  completed - Koppel &amp; Søn synger De Store Mestre
+12-Jul-24 05:22:06 :  completed - Beatbox Sensation
+12-Jul-24 05:22:08 :  completed - Balder &amp; Dragen
+12-Jul-24 05:22:10 :  completed - CameliOrquestra
+12-Jul-24 05:22:12 :  completed - Mr.Zap the Clown
+12-Jul-24 05:22:13 :  completed - De fire årstider
+12-Jul-24 05:22:15 :  completed - Alfons Åberg
+12-Jul-24 05:22:17 :  completed - Da Lilleræv blev STOREBROR
+12-Jul-24 05:22:18 :  completed - Nissepigen der blev væk
+12-Jul-24 05:22:20 :  completed - Vildanden
+12-Jul-24 05:22:22 :  completed - HVOR TOG ROBIN HEN
+12-Jul-24 05:22:24 :  completed - Den Standhaftige Tinsoldat
+12-Jul-24 05:22:25 :  completed - Babettes gæstebud efter Karen Blixen
+12-Jul-24 05:22:27 :  completed - Tommelise
+12-Jul-24 05:22:29 :  completed - The Undoing of Carmen
+12-Jul-24 05:22:31 :  completed - Peddersen og Findus - Jul hos Peddersen
+12-Jul-24 05:22:33 :  completed - NEW SH*T Vol. 9
+12-Jul-24 05:22:34 :  completed - RIPE BODY
+12-Jul-24 05:22:36 :  completed - On My Tongue
+12-Jul-24 05:22:38 :  completed - Brødrene Løvehjerte SOLO
+12-Jul-24 05:22:40 :  completed - Shiraz
+12-Jul-24 05:23:56 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:23:56 :  Starting  - (scenen.py) scraper
+12-Jul-24 05:24:03 :  completed - Børglums Stemmer
+12-Jul-24 05:24:04 :  completed - Efterårskort 2024
+12-Jul-24 05:24:06 :  completed - Mustafas Kiosk
+12-Jul-24 05:24:08 :  completed - Greyline af Renae Shadler
+12-Jul-24 05:24:10 :  completed - ELVIS, OTTO, SINATRA OG DE ANDRE RØDDER
+12-Jul-24 05:24:11 :  completed - Brevet
+12-Jul-24 05:24:13 :  completed - 90-års fødselsdagen
+12-Jul-24 05:24:15 :  completed - Midt I Livet
+12-Jul-24 05:24:17 :  completed - Slit Show
+12-Jul-24 05:24:18 :  completed - KÅLOSSAL LANGBORDSMIDDAG
+12-Jul-24 05:24:20 :  completed - SYDHAVN BRÆNDER
+12-Jul-24 05:24:22 :  completed - ANNA ROEMER x LIV DUVÅ
+12-Jul-24 05:24:23 :  completed - Klub Kreatur: EXTRACTIONS
+12-Jul-24 05:24:25 :  completed - Klub Kreatur: MR. ROBBIES BØRNETIME
+12-Jul-24 05:24:27 :  completed - MELANIA BLINK TWICE IF YOU NEED HELP
+12-Jul-24 05:24:29 :  completed - Embracing the Root
+12-Jul-24 05:24:31 :  completed - Southern Beads
+12-Jul-24 05:24:33 :  completed - Artistisk syngevarité
+12-Jul-24 05:24:34 :  completed - Mother Soldier
+12-Jul-24 05:24:37 :  completed - Du er en dag imorgen - et rumligt hørespil om klasseværelset som kampzone
+12-Jul-24 05:24:39 :  completed - Eutopia
+12-Jul-24 05:24:41 :  completed - Den hellige nat
+12-Jul-24 05:24:42 :  completed - Ivalus første Sang
+12-Jul-24 05:24:44 :  completed - Kældermennesket
+12-Jul-24 05:24:46 :  completed - Min søster er en havfrue
+12-Jul-24 05:24:47 :  completed - TANGO
+12-Jul-24 05:24:49 :  completed - Sufi Surf
+12-Jul-24 05:24:51 :  completed - Museet for eventyrrester
+12-Jul-24 05:24:53 :  completed - Sulky M1
+12-Jul-24 05:24:54 :  completed - Adrift
+12-Jul-24 05:24:56 :  completed - To mænd og en planke
+12-Jul-24 05:24:58 :  completed - Popcorn
+12-Jul-24 05:25:00 :  completed - The Laughing Crowd
+12-Jul-24 05:25:01 :  completed - MÅST the show go on?!
+12-Jul-24 05:25:04 :  completed - Under Skov
+12-Jul-24 05:25:05 :  completed - Cumulus af Andrea Gunnlaugsdottir &amp; Claudia Lomoschitz
+12-Jul-24 05:25:07 :  completed - THE LOVER af Bára Sigfúsdóttir
+12-Jul-24 05:25:09 :  completed - FOREST SILENT GATHERING af Begüm Erciyas
+12-Jul-24 05:25:10 :  completed - HABITAT af Doris Uhlich
+12-Jul-24 05:25:11 :  completed - total: 39
+12-Jul-24 05:29:52 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:29:52 :  Starting  - (scenen.py) scraper
+12-Jul-24 05:29:57 :  completed - &lt;3° No More Babies
+12-Jul-24 05:29:59 :  completed - Børglums Stemmer
+12-Jul-24 05:30:01 :  completed - Efterårskort 2024
+12-Jul-24 05:30:03 :  completed - Mustafas Kiosk
+12-Jul-24 05:30:05 :  completed - Greyline af Renae Shadler
+12-Jul-24 05:30:06 :  completed - ELVIS, OTTO, SINATRA OG DE ANDRE RØDDER
+12-Jul-24 05:30:08 :  completed - Brevet
+12-Jul-24 05:30:10 :  completed - 90-års fødselsdagen
+12-Jul-24 05:30:12 :  completed - Midt I Livet
+12-Jul-24 05:30:14 :  completed - Slit Show
+12-Jul-24 05:30:16 :  completed - KÅLOSSAL LANGBORDSMIDDAG
+12-Jul-24 05:30:17 :  completed - SYDHAVN BRÆNDER
+12-Jul-24 05:30:19 :  completed - ANNA ROEMER x LIV DUVÅ
+12-Jul-24 05:30:21 :  completed - Klub Kreatur: EXTRACTIONS
+12-Jul-24 05:30:23 :  completed - Klub Kreatur: MR. ROBBIES BØRNETIME
+12-Jul-24 05:30:24 :  completed - MELANIA BLINK TWICE IF YOU NEED HELP
+12-Jul-24 05:30:26 :  completed - Embracing the Root
+12-Jul-24 05:30:28 :  completed - Southern Beads
+12-Jul-24 05:30:30 :  completed - Artistisk syngevarité
+12-Jul-24 05:30:31 :  completed - Mother Soldier
+12-Jul-24 05:30:34 :  completed - Du er en dag imorgen - et rumligt hørespil om klasseværelset som kampzone
+12-Jul-24 05:30:36 :  completed - Eutopia
+12-Jul-24 05:30:38 :  completed - Den hellige nat
+12-Jul-24 05:30:40 :  completed - Ivalus første Sang
+12-Jul-24 05:30:41 :  completed - Kældermennesket
+12-Jul-24 05:30:43 :  completed - Min søster er en havfrue
+12-Jul-24 05:30:45 :  completed - TANGO
+12-Jul-24 05:30:46 :  completed - Sufi Surf
+12-Jul-24 05:30:48 :  completed - Museet for eventyrrester
+12-Jul-24 05:30:50 :  completed - Sulky M1
+12-Jul-24 05:30:51 :  completed - Adrift
+12-Jul-24 05:30:53 :  completed - To mænd og en planke
+12-Jul-24 05:30:55 :  completed - Popcorn
+12-Jul-24 05:30:57 :  completed - The Laughing Crowd
+12-Jul-24 05:30:58 :  completed - MÅST the show go on?!
+12-Jul-24 05:31:00 :  completed - Under Skov
+12-Jul-24 05:31:02 :  completed - Cumulus af Andrea Gunnlaugsdottir &amp; Claudia Lomoschitz
+12-Jul-24 05:31:04 :  completed - THE LOVER af Bára Sigfúsdóttir
+12-Jul-24 05:31:05 :  completed - FOREST SILENT GATHERING af Begüm Erciyas
+12-Jul-24 05:31:07 :  completed - HABITAT af Doris Uhlich
+12-Jul-24 05:31:10 :  completed - Ruzalka
+12-Jul-24 05:31:12 :  completed - Correlations - Meetings in the Multiverse
+12-Jul-24 05:31:14 :  completed - SANDKIND
+12-Jul-24 05:31:15 :  completed - Beatles om søndagen
+12-Jul-24 05:31:17 :  completed - HVEM HAR TIDEN?
+12-Jul-24 05:31:19 :  completed - FRK. MARGUERITE
+12-Jul-24 05:31:21 :  completed - Bloody Moon (Main Show)
+12-Jul-24 05:31:23 :  completed - SOLASTALGIA
+12-Jul-24 05:31:25 :  completed - Gravalvorlig
+12-Jul-24 05:31:26 :  completed - TEATERKONCERT KØBENHAVN
+12-Jul-24 05:31:28 :  completed - Pippi Langstrømpe
+12-Jul-24 05:31:30 :  completed - Flextrafik og slagtesvin
+12-Jul-24 05:31:32 :  completed - Drøm om efteråret
+12-Jul-24 05:31:33 :  completed - Det magiske Tivoliteater
+12-Jul-24 05:31:35 :  completed - Der Weltuntergang
+12-Jul-24 05:31:37 :  completed - Hans
+12-Jul-24 05:31:39 :  completed - MOLTA
+12-Jul-24 05:31:40 :  completed - Men her går det godt
+12-Jul-24 05:31:42 :  completed - GENLYD
+12-Jul-24 05:31:44 :  completed - Børne- og familiepas (Børneworkshop/The Still Dying Swan)
+12-Jul-24 05:31:46 :  completed - Dance With Us (The Still Dying Swan/Dance Workshop)
+12-Jul-24 05:31:48 :  completed - Hjemme hos Alfons Åberg
+12-Jul-24 05:31:50 :  completed - Der var engang
+12-Jul-24 05:31:52 :  completed - To i et hus - og en mus
+12-Jul-24 05:31:54 :  completed - Lazarus
+12-Jul-24 05:31:55 :  completed - En Heldig Kartoffel
+12-Jul-24 05:31:57 :  completed - En lille nisse rejste
+12-Jul-24 05:31:59 :  completed - At Dele Et Liv
+12-Jul-24 05:32:00 :  completed - Anne Franks Dagbog
+12-Jul-24 05:32:02 :  completed - Ræk mig din hånd
+12-Jul-24 05:32:04 :  completed - Signes sokker
+12-Jul-24 05:32:06 :  completed - På Pletten
+12-Jul-24 05:32:08 :  completed - Koppel &amp; Søn synger De Store Mestre
+12-Jul-24 05:32:09 :  completed - Beatbox Sensation
+12-Jul-24 05:32:11 :  completed - Balder &amp; Dragen
+12-Jul-24 05:32:13 :  completed - CameliOrquestra
+12-Jul-24 05:32:14 :  completed - Mr.Zap the Clown
+12-Jul-24 05:32:16 :  completed - De fire årstider
+12-Jul-24 05:32:18 :  completed - Alfons Åberg
+12-Jul-24 05:32:20 :  completed - pAp-kAs
+12-Jul-24 05:32:22 :  completed - Min sidste øl
+12-Jul-24 05:32:24 :  completed - Da Lilleræv blev STOREBROR
+12-Jul-24 05:32:26 :  completed - Fridas store rejse
+12-Jul-24 05:32:27 :  completed - TØJ
+12-Jul-24 05:32:29 :  completed - Nissepigen der blev væk
+12-Jul-24 05:32:31 :  completed - Vildanden
+12-Jul-24 05:32:33 :  completed - HVOR TOG ROBIN HEN
+12-Jul-24 05:32:34 :  completed - Den Standhaftige Tinsoldat
+12-Jul-24 05:32:36 :  completed - Babettes gæstebud efter Karen Blixen
+12-Jul-24 05:32:38 :  completed - Vil du gemmes eller glemmes
+12-Jul-24 05:32:39 :  completed - Tommelise
+12-Jul-24 05:32:41 :  completed - The Undoing of Carmen
+12-Jul-24 05:32:43 :  completed - Peddersen og Findus - Jul hos Peddersen
+12-Jul-24 05:32:44 :  completed - NEW SH*T Vol. 9
+12-Jul-24 05:32:46 :  completed - RIPE BODY
+12-Jul-24 05:32:48 :  completed - On My Tongue
+12-Jul-24 05:32:50 :  completed - Brødrene Løvehjerte SOLO
+12-Jul-24 05:32:51 :  completed - Shiraz
+12-Jul-24 05:32:53 :  completed - Forestillingspas (When We Break + Bloody Moon)
+12-Jul-24 05:32:55 :  completed - We Will Rock You
+12-Jul-24 05:32:58 :  completed - Forestillingspas+ (When We Break/Bloody Moon/Ballroom)
+12-Jul-24 05:33:00 :  completed - Monster Miniball
+12-Jul-24 05:33:01 :  completed - The Battle
+12-Jul-24 05:33:03 :  completed - Fête galante
+12-Jul-24 05:33:05 :  completed - Madama Butterfly
+12-Jul-24 05:33:06 :  completed - The Greek Passion
+12-Jul-24 05:33:08 :  completed - Skidt og Pyt
+12-Jul-24 05:33:10 :  completed - Skidt og Pyt på Store Vaskedag
+12-Jul-24 05:33:12 :  completed - DATA DATA 1.0
+12-Jul-24 05:33:14 :  completed - Så er der afgang!
+12-Jul-24 05:33:15 :  completed - Niels Klims underjordiske rejse
+12-Jul-24 05:33:17 :  completed - Et Juleeventyr
+12-Jul-24 05:33:19 :  completed - Kærlighed
+12-Jul-24 05:33:20 :  completed - Hvis jeg bliver født som...
+12-Jul-24 05:33:22 :  completed - Vilde Kaniner &amp; Underlige Fisk
+12-Jul-24 05:33:24 :  completed - Julemusen
+12-Jul-24 05:33:26 :  completed - Evy Konigsberg
+12-Jul-24 05:33:27 :  completed - GLIMMER PÅ!
+12-Jul-24 05:33:29 :  completed - DRØM DRØM DRØM
+12-Jul-24 05:33:31 :  completed - Forestillingen Om Mor
+12-Jul-24 05:33:34 :  completed - En Lille Smule Ubehag
+12-Jul-24 05:33:35 :  completed - Den forunderlige rejse
+12-Jul-24 05:33:37 :  completed - Fortællinger fra Als
+12-Jul-24 05:33:39 :  completed - Lilith
+12-Jul-24 05:33:40 :  completed - ALBERT WAS HERE
+12-Jul-24 05:33:42 :  completed - ANIMAL
+12-Jul-24 05:33:44 :  completed - Et Juleeventyr
+12-Jul-24 05:33:46 :  completed - BAG FACADEN
+12-Jul-24 05:33:47 :  completed - VILD
+12-Jul-24 05:33:49 :  completed - HAVEN
+12-Jul-24 05:33:51 :  completed - Walden - Livet i skovene
+12-Jul-24 05:33:52 :  completed - Noget om at undgå at få ting galt i halsen
+12-Jul-24 05:33:54 :  completed - Elvis
+12-Jul-24 05:33:56 :  completed - Askepot
+12-Jul-24 05:33:58 :  completed - The Girl with the Hurricane Brain
+12-Jul-24 05:34:00 :  completed - Love Me Kenter
+12-Jul-24 05:34:01 :  completed - På Loftet Sidder Krisen
+12-Jul-24 05:34:03 :  completed - Motherfucker med Hat
+12-Jul-24 05:34:05 :  completed - Kong Lear eller Daddy Issues
+12-Jul-24 05:34:06 :  completed - VI, DE DRUKNEDE
+12-Jul-24 05:34:09 :  completed - Det vandrende menneske
+12-Jul-24 05:34:11 :  completed - Les Misérables
+12-Jul-24 05:34:13 :  completed - Står stille mens jeg falder
+12-Jul-24 05:34:15 :  completed - Håbets koloni
+12-Jul-24 05:34:16 :  completed - Mit liv som Niels
+12-Jul-24 05:34:18 :  completed - Barnevognen
+12-Jul-24 05:34:20 :  completed - Grænsen
+12-Jul-24 05:34:22 :  completed - K.I.S.S.
+12-Jul-24 05:34:23 :  completed - Eddy Spaghetti
+12-Jul-24 05:34:25 :  completed - Vi Brøler
+12-Jul-24 05:34:27 :  completed - Drømme, Længsel &amp; Kærlighed
+12-Jul-24 05:34:29 :  completed - Se mig nu
+12-Jul-24 05:34:30 :  completed - INSEKTLIV
+12-Jul-24 05:34:32 :  completed - Hallo!
+12-Jul-24 05:34:34 :  completed - The Show for Young Men
+12-Jul-24 05:34:36 :  completed - ROD
+12-Jul-24 05:34:38 :  completed - The Blind Date
+12-Jul-24 05:34:39 :  completed - VÅR DAG
+12-Jul-24 05:34:41 :  completed - The Mirror
+12-Jul-24 05:34:43 :  completed - Tvillingehjerte
+12-Jul-24 05:34:46 :  completed - Tju Bang
+12-Jul-24 05:34:48 :  completed - Noter om Blanche
+12-Jul-24 05:34:49 :  completed - Titanic - Sandheden
+12-Jul-24 05:34:51 :  completed - RUNE KLAN 'IDIOT'
+12-Jul-24 05:34:53 :  completed - Rage
+12-Jul-24 05:34:55 :  completed - Richard III
+12-Jul-24 05:34:56 :  completed - Peter af Farum
+12-Jul-24 05:34:58 :  completed - Folkeviser
+12-Jul-24 05:35:00 :  completed - DESERTØR
+12-Jul-24 05:35:02 :  completed - Jorden Rundt
+12-Jul-24 05:35:04 :  completed - Materia
+12-Jul-24 05:35:06 :  completed - Jagten på den løsslupne lørdagskylling
+12-Jul-24 05:35:08 :  completed - Garbo's Cuban Lover
+12-Jul-24 05:35:09 :  completed - Restaurant Europa
+12-Jul-24 05:35:11 :  completed - Tro, håb og Gorgonzola
+12-Jul-24 05:35:13 :  completed - APOLLONIAN CIRCLES
+12-Jul-24 05:35:15 :  completed - Petersuaq
+12-Jul-24 05:35:16 :  completed - Diktatoren
+12-Jul-24 05:35:18 :  completed - Trauma Kink
+12-Jul-24 05:35:21 :  completed - Trold kan tæmmes
+12-Jul-24 05:35:23 :  completed - NYTÅRSKONCERT
+12-Jul-24 05:35:24 :  completed - FUGLENE
+12-Jul-24 05:35:26 :  completed - Jeg skulle være blevet ryger
+12-Jul-24 05:35:28 :  completed - Nøddeknækkeren
+12-Jul-24 05:35:30 :  completed - Nisser driller da?
+12-Jul-24 05:35:32 :  completed - Lad mig være din Jesus
+12-Jul-24 05:35:34 :  completed - ENTER COPY
+12-Jul-24 05:35:36 :  completed - Rejsekammeraten
+12-Jul-24 05:35:38 :  completed - Grantræet
+12-Jul-24 05:35:40 :  completed - LOV MIG ALDRIG AT GLEMME
+12-Jul-24 05:35:41 :  completed - Sort Sol - Fladt Land
+12-Jul-24 05:35:43 :  completed - H. C. Andersens Samlede Eventyr
+12-Jul-24 05:35:45 :  completed - FROM THE NEW WORLD
+12-Jul-24 05:35:47 :  completed - VEJEN
+12-Jul-24 05:35:49 :  completed - Lille Es
+12-Jul-24 05:35:50 :  completed - Meanwhile
+12-Jul-24 05:35:52 :  completed - Ronja Røverdatter
+12-Jul-24 05:35:54 :  completed - Storemyr og Lillemyr. Bjerget i skoven
+12-Jul-24 05:35:56 :  completed - Så blev Farfar et Spøgelse
+12-Jul-24 05:35:59 :  completed - Woman in Black
+12-Jul-24 05:36:00 :  completed - Rend mig i traditionerne
+12-Jul-24 05:36:02 :  completed - Nøddeknækkeren og Musedronningen
+12-Jul-24 05:36:04 :  completed - Spejlvendt
+12-Jul-24 05:36:06 :  completed - Marias Barn Guds Søn
+12-Jul-24 05:36:07 :  completed - Drip Tekhne
+12-Jul-24 05:36:09 :  completed - Mio, min Mio
+12-Jul-24 05:36:11 :  completed - Simili
+12-Jul-24 05:36:13 :  completed - Klods-Hans
+12-Jul-24 05:36:15 :  completed - Ultrasound
+12-Jul-24 05:36:16 :  completed - Detour Dance Festival
+12-Jul-24 05:36:18 :  completed - Himmel
+12-Jul-24 05:36:20 :  completed - KRIGSBØRN
+12-Jul-24 05:36:22 :  completed - OR,
+12-Jul-24 05:36:23 :  completed - POW POW POW
+12-Jul-24 05:36:25 :  completed - Vai via
+12-Jul-24 05:36:27 :  completed - GILGAMESH
+12-Jul-24 05:36:29 :  completed - Hvem Bestemmer?
+12-Jul-24 05:36:30 :  completed - ANNA KARENINA
+12-Jul-24 05:36:32 :  completed - Puden
+12-Jul-24 05:36:36 :  completed - Antigone
+12-Jul-24 05:36:38 :  completed - TID TIL GLÆDE
+12-Jul-24 05:36:39 :  completed - Gengangere
+12-Jul-24 05:36:41 :  completed - Saturday Night Fever
+12-Jul-24 05:36:43 :  completed - En sommerdag i oktober
+12-Jul-24 05:42:31 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:42:31 :  Starting  - (scenen.py) scraper
+12-Jul-24 05:42:33 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:42:33 : An error occurred: (scrapers\scenen.py)
+Traceback (most recent call last):
+  File "c:\Users\art\OneDrive\Desktop\culture-scraper\scrapers\scenen.py", line 261, in run
+    crawl()
+  File "c:\Users\art\OneDrive\Desktop\culture-scraper\scrapers\scenen.py", line 158, in crawl
+    cards = response.json()['results'][0]['hits']
+            ~~~~~~~~~~~~~~~^^^^^^^^^^^
+KeyError: 'results'
+
+12-Jul-24 05:42:33 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:43:00 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:43:00 :  Starting  - (scenen.py) scraper
+12-Jul-24 05:43:03 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:43:03 : An error occurred: (scrapers\scenen.py)
+Traceback (most recent call last):
+  File "c:\Users\art\OneDrive\Desktop\culture-scraper\scrapers\scenen.py", line 264, in run
+    crawl()
+  File "c:\Users\art\OneDrive\Desktop\culture-scraper\scrapers\scenen.py", line 160, in crawl
+    cards = response.json()['results'][0]['hits']
+            ~~~~~~~~~~~~~~~^^^^^^^^^^^
+KeyError: 'results'
+
+12-Jul-24 05:43:03 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:45:06 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:45:06 :  Starting  - (scenen.py) scraper
+12-Jul-24 05:45:09 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:45:09 : An error occurred: (scrapers\scenen.py)
+Traceback (most recent call last):
+  File "c:\Users\art\OneDrive\Desktop\culture-scraper\scrapers\scenen.py", line 266, in run
+    crawl()
+  File "c:\Users\art\OneDrive\Desktop\culture-scraper\scrapers\scenen.py", line 162, in crawl
+    cards = response.json()['results'][0]['hits']
+            ~~~~~~~~~~~~~~~^^^^^^^^^^^
+KeyError: 'results'
+
+12-Jul-24 05:45:09 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:45:33 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:45:33 :  Starting  - (scenen.py) scraper
+12-Jul-24 05:45:36 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:45:36 : An error occurred: (scrapers\scenen.py)
+Traceback (most recent call last):
+  File "c:\Users\art\OneDrive\Desktop\culture-scraper\scrapers\scenen.py", line 266, in run
+    crawl()
+  File "c:\Users\art\OneDrive\Desktop\culture-scraper\scrapers\scenen.py", line 162, in crawl
+    cards = response.json()['results'][0]['hits']
+            ~~~~~~~~~~~~~~~^^^^^^^^^^^
+KeyError: 'results'
+
+12-Jul-24 05:45:36 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:45:51 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:45:51 :  Starting  - (scenen.py) scraper
+12-Jul-24 05:45:54 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:45:54 : An error occurred: (scrapers\scenen.py)
+Traceback (most recent call last):
+  File "c:\Users\art\OneDrive\Desktop\culture-scraper\scrapers\scenen.py", line 266, in run
+    crawl()
+  File "c:\Users\art\OneDrive\Desktop\culture-scraper\scrapers\scenen.py", line 162, in crawl
+    cards = response.json()['results'][0]['hits']
+            ~~~~~~~~~~~~~~~^^^^^^^^^^^
+KeyError: 'results'
+
+12-Jul-24 05:45:54 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:51:48 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:51:48 :  Starting  - (scenen.py) scraper
+12-Jul-24 05:51:51 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:51:51 : An error occurred: (scrapers\scenen.py)
+Traceback (most recent call last):
+  File "c:\Users\art\OneDrive\Desktop\culture-scraper\scrapers\scenen.py", line 269, in run
+    crawl()
+  File "c:\Users\art\OneDrive\Desktop\culture-scraper\scrapers\scenen.py", line 165, in crawl
+    cards = response.json()['results'][0]['hits']
+            ~~~~~~~~~~~~~~~^^^^^^^^^^^
+KeyError: 'results'
+
+12-Jul-24 05:51:51 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:52:10 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:52:10 :  Starting  - (scenen.py) scraper
+12-Jul-24 05:52:13 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:52:13 : An error occurred: (scrapers\scenen.py)
+Traceback (most recent call last):
+  File "c:\Users\art\OneDrive\Desktop\culture-scraper\scrapers\scenen.py", line 269, in run
+    crawl()
+  File "c:\Users\art\OneDrive\Desktop\culture-scraper\scrapers\scenen.py", line 165, in crawl
+    cards = response.json()['results'][0]['hits']
+            ~~~~~~~~~~~~~~~^^^^^^^^^^^
+KeyError: 'results'
+
+12-Jul-24 05:52:13 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:54:01 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:54:01 :  Starting  - (scenen.py) scraper
+12-Jul-24 05:54:03 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:54:03 : An error occurred: (scrapers\scenen.py)
+Traceback (most recent call last):
+  File "c:\Users\art\OneDrive\Desktop\culture-scraper\scrapers\scenen.py", line 273, in run
+    crawl()
+  File "c:\Users\art\OneDrive\Desktop\culture-scraper\scrapers\scenen.py", line 169, in crawl
+    cards = response.json()['results'][0]['hits']
+            ~~~~~~~~~~~~~~~^^^^^^^^^^^
+KeyError: 'results'
+
+12-Jul-24 05:54:03 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:59:02 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 05:59:02 :  Starting  - (scenen.py) scraper
+12-Jul-24 06:10:14 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 06:10:14 :  Starting  - (scenen.py) scraper
+12-Jul-24 06:10:23 :  completed - &lt;3° No More Babies
+12-Jul-24 06:10:25 :  completed - Mustafas Kiosk
+12-Jul-24 06:11:40 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 06:11:40 :  Starting  - (scenen.py) scraper
+12-Jul-24 06:11:45 :  completed - Mustafas Kiosk
+12-Jul-24 06:13:31 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 06:13:31 :  Starting  - (scenen.py) scraper
+12-Jul-24 06:13:36 :  completed - Mustafas Kiosk
+12-Jul-24 06:17:36 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 06:17:36 :  Starting  - (scenen.py) scraper
+12-Jul-24 06:17:55 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 06:17:55 :  Starting  - (scenen.py) scraper
+12-Jul-24 06:18:02 :  completed - &lt;3° No More Babies
+12-Jul-24 06:18:04 :  completed - Mustafas Kiosk
+12-Jul-24 06:18:06 :  completed - Greyline af Renae Shadler
+12-Jul-24 06:18:07 :  completed - Slit Show
+12-Jul-24 06:18:09 :  completed - KÅLOSSAL LANGBORDSMIDDAG
+12-Jul-24 06:18:33 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 06:18:33 :  Starting  - (scenen.py) scraper
+12-Jul-24 06:19:33 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 06:19:33 :  Starting  - (scenen.py) scraper
+12-Jul-24 06:19:40 :  completed - &lt;3° No More Babies
+12-Jul-24 06:23:31 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 06:23:31 :  Starting  - (scenen.py) scraper
+12-Jul-24 06:24:00 :  completed - total: 0
+12-Jul-24 06:24:04 :  completed - Mustafas Kiosk
+12-Jul-24 06:24:06 :  completed - Greyline af Renae Shadler
+12-Jul-24 06:24:07 :  completed - Børne- og familiepas (Børneworkshop/The Still Dying Swan)
+12-Jul-24 06:24:09 :  completed - Hjemme hos Alfons Åberg
+12-Jul-24 06:24:11 :  completed - Balder &amp; Dragen
+12-Jul-24 06:24:13 :  completed - Alfons Åberg
+12-Jul-24 06:24:14 :  completed - Min sidste øl
+12-Jul-24 06:24:16 :  completed - Da Lilleræv blev STOREBROR
+12-Jul-24 06:24:18 :  completed - Tommelise
+12-Jul-24 06:24:19 :  completed - Peddersen og Findus - Jul hos Peddersen
+12-Jul-24 06:24:21 :  completed - Brødrene Løvehjerte SOLO
+12-Jul-24 06:24:23 :  completed - We Will Rock You
+12-Jul-24 06:24:25 :  completed - DATA DATA 1.0
+12-Jul-24 06:24:26 :  completed - Den forunderlige rejse
+12-Jul-24 06:24:28 :  completed - Et Juleeventyr
+12-Jul-24 06:24:30 :  completed - Håbets koloni
+12-Jul-24 06:24:32 :  completed - Barnevognen
+12-Jul-24 06:24:34 :  completed - Eddy Spaghetti
+12-Jul-24 06:24:55 : -----------------------------------------------------------------------------------------------------------------
+12-Jul-24 06:24:55 :  Starting  - (scenen.py) scraper
+12-Jul-24 06:24:59 :  completed - &lt;3° No More Babies
+12-Jul-24 06:25:01 :  completed - Mustafas Kiosk
+12-Jul-24 06:25:03 :  completed - Greyline af Renae Shadler
+12-Jul-24 06:25:05 :  completed - Slit Show
+12-Jul-24 06:25:06 :  completed - KÅLOSSAL LANGBORDSMIDDAG
+12-Jul-24 06:25:08 :  completed - SYDHAVN BRÆNDER
+12-Jul-24 06:25:10 :  completed - ANNA ROEMER x LIV DUVÅ
+12-Jul-24 06:25:12 :  completed - Klub Kreatur: EXTRACTIONS
+12-Jul-24 06:25:14 :  completed - Klub Kreatur: MR. ROBBIES BØRNETIME
+12-Jul-24 06:25:15 :  completed - MELANIA BLINK TWICE IF YOU NEED HELP
+12-Jul-24 06:25:18 :  completed - Embracing the Root
+12-Jul-24 06:25:20 :  completed - Southern Beads
+12-Jul-24 06:25:21 :  completed - Mother Soldier
+12-Jul-24 06:25:23 :  completed - Du er en dag imorgen - et rumligt hørespil om klasseværelset som kampzone
+12-Jul-24 06:25:25 :  completed - MÅST the show go on?!
+12-Jul-24 06:25:26 :  completed - Under Skov
+12-Jul-24 06:25:28 :  completed - Cumulus af Andrea Gunnlaugsdottir &amp; Claudia Lomoschitz
+12-Jul-24 06:25:30 :  completed - THE LOVER af Bára Sigfúsdóttir
+12-Jul-24 06:25:31 :  completed - FOREST SILENT GATHERING af Begüm Erciyas
+12-Jul-24 06:25:33 :  completed - HABITAT af Doris Uhlich
+12-Jul-24 06:25:36 :  completed - Ruzalka
+12-Jul-24 06:25:38 :  completed - Correlations - Meetings in the Multiverse
+12-Jul-24 06:25:39 :  completed - SANDKIND
+12-Jul-24 06:25:41 :  completed - Beatles om søndagen
+12-Jul-24 06:25:43 :  completed - HVEM HAR TIDEN?
+12-Jul-24 06:25:45 :  completed - FRK. MARGUERITE
+12-Jul-24 06:25:46 :  completed - Bloody Moon (Main Show)
+12-Jul-24 06:25:48 :  completed - SOLASTALGIA
+12-Jul-24 06:25:50 :  completed - TEATERKONCERT KØBENHAVN
+12-Jul-24 06:25:52 :  completed - MOLTA
+12-Jul-24 06:25:54 :  completed - GENLYD
+12-Jul-24 06:25:56 :  completed - Børne- og familiepas (Børneworkshop/The Still Dying Swan)
+12-Jul-24 06:25:58 :  completed - Dance With Us (The Still Dying Swan/Dance Workshop)
+12-Jul-24 06:25:59 :  completed - Hjemme hos Alfons Åberg
+12-Jul-24 06:26:01 :  completed - Ræk mig din hånd
+12-Jul-24 06:26:03 :  completed - Balder &amp; Dragen
+12-Jul-24 06:26:05 :  completed - Alfons Åberg
+12-Jul-24 06:26:07 :  completed - Min sidste øl
+12-Jul-24 06:26:08 :  completed - Da Lilleræv blev STOREBROR
+12-Jul-24 06:26:10 :  completed - Tommelise
+12-Jul-24 06:26:13 :  completed - The Undoing of Carmen
+12-Jul-24 06:26:15 :  completed - Peddersen og Findus - Jul hos Peddersen
+12-Jul-24 06:26:17 :  completed - NEW SH*T Vol. 9
+12-Jul-24 06:26:18 :  completed - RIPE BODY
+12-Jul-24 06:26:20 :  completed - On My Tongue
+12-Jul-24 06:26:22 :  completed - Brødrene Løvehjerte SOLO
+12-Jul-24 06:26:23 :  completed - Shiraz
+12-Jul-24 06:26:25 :  completed - Forestillingspas (When We Break + Bloody Moon)
+12-Jul-24 06:26:27 :  completed - We Will Rock You
+12-Jul-24 06:26:29 :  completed - Forestillingspas+ (When We Break/Bloody Moon/Ballroom)
+12-Jul-24 06:26:31 :  completed - Monster Miniball
+12-Jul-24 06:26:33 :  completed - The Battle
+12-Jul-24 06:26:35 :  completed - DATA DATA 1.0
+12-Jul-24 06:26:37 :  completed - Evy Konigsberg
+12-Jul-24 06:26:38 :  completed - En Lille Smule Ubehag
+12-Jul-24 06:26:40 :  completed - Den forunderlige rejse
+12-Jul-24 06:26:42 :  completed - Lilith
+12-Jul-24 06:26:44 :  completed - ALBERT WAS HERE
+12-Jul-24 06:26:46 :  completed - ANIMAL
+12-Jul-24 06:26:47 :  completed - Et Juleeventyr
+12-Jul-24 06:26:50 :  completed - Walden - Livet i skovene
+12-Jul-24 06:26:52 :  completed - Noget om at undgå at få ting galt i halsen
+12-Jul-24 06:26:53 :  completed - Elvis
+12-Jul-24 06:26:55 :  completed - Askepot
+12-Jul-24 06:26:57 :  completed - The Girl with the Hurricane Brain
+12-Jul-24 06:26:59 :  completed - Love Me Kenter
+12-Jul-24 06:27:00 :  completed - Motherfucker med Hat
+12-Jul-24 06:27:02 :  completed - Kong Lear eller Daddy Issues
+12-Jul-24 06:27:04 :  completed - VI, DE DRUKNEDE
+12-Jul-24 06:27:06 :  completed - Det vandrende menneske
+12-Jul-24 06:27:08 :  completed - Les Misérables
+12-Jul-24 06:27:10 :  completed - Står stille mens jeg falder
+12-Jul-24 06:27:12 :  completed - Håbets koloni
+12-Jul-24 06:27:14 :  completed - Mit liv som Niels
+12-Jul-24 06:27:15 :  completed - Barnevognen
+12-Jul-24 06:27:17 :  completed - K.I.S.S.
+12-Jul-24 06:27:19 :  completed - Eddy Spaghetti
+12-Jul-24 06:27:21 :  completed - Vi Brøler
+12-Jul-24 06:27:23 :  completed - Drømme, Længsel &amp; Kærlighed
+12-Jul-24 06:27:24 :  completed - Se mig nu
+12-Jul-24 06:27:27 :  completed - INSEKTLIV
+12-Jul-24 06:27:29 :  completed - Hallo!
+12-Jul-24 06:27:31 :  completed - ROD
+12-Jul-24 06:27:32 :  completed - The Blind Date
+12-Jul-24 06:27:34 :  completed - VÅR DAG
+12-Jul-24 06:27:36 :  completed - The Mirror
+12-Jul-24 06:27:38 :  completed - Tvillingehjerte
+12-Jul-24 06:27:39 :  completed - Tju Bang
+12-Jul-24 06:27:41 :  completed - Noter om Blanche
+12-Jul-24 06:27:43 :  completed - Titanic - Sandheden
+12-Jul-24 06:27:45 :  completed - RUNE KLAN 'IDIOT'
+12-Jul-24 06:27:47 :  completed - Rage
+12-Jul-24 06:27:49 :  completed - Richard III
+12-Jul-24 06:27:51 :  completed - Peter af Farum
+12-Jul-24 06:27:53 :  completed - Folkeviser
+12-Jul-24 06:27:54 :  completed - DESERTØR
+12-Jul-24 06:27:56 :  completed - Jorden Rundt
+12-Jul-24 06:27:58 :  completed - Materia
+12-Jul-24 06:27:59 :  completed - Jagten på den løsslupne lørdagskylling
+12-Jul-24 06:28:02 :  completed - Garbo's Cuban Lover
+12-Jul-24 06:28:04 :  completed - Restaurant Europa
+12-Jul-24 06:28:06 :  completed - Tro, håb og Gorgonzola
+12-Jul-24 06:28:07 :  completed - APOLLONIAN CIRCLES
+12-Jul-24 06:28:09 :  completed - Petersuaq
+12-Jul-24 06:28:11 :  completed - Diktatoren
+12-Jul-24 06:28:13 :  completed - Trauma Kink
+12-Jul-24 06:28:14 :  completed - Trold kan tæmmes
+12-Jul-24 06:28:16 :  completed - NYTÅRSKONCERT
+12-Jul-24 06:28:18 :  completed - FUGLENE
+12-Jul-24 06:28:20 :  completed - Jeg skulle være blevet ryger
+12-Jul-24 06:28:22 :  completed - Nøddeknækkeren
+12-Jul-24 06:28:24 :  completed - Nisser driller da?
+12-Jul-24 06:28:26 :  completed - Lad mig være din Jesus
+12-Jul-24 06:28:27 :  completed - ENTER COPY
+12-Jul-24 06:28:29 :  completed - Rejsekammeraten
+12-Jul-24 06:28:31 :  completed - LOV MIG ALDRIG AT GLEMME
+12-Jul-24 06:28:33 :  completed - Sort Sol - Fladt Land
+12-Jul-24 06:28:35 :  completed - H. C. Andersens Samlede Eventyr
+12-Jul-24 06:28:36 :  completed - FROM THE NEW WORLD
+12-Jul-24 06:28:39 :  completed - VEJEN
+12-Jul-24 06:28:41 :  completed - Lille Es
+12-Jul-24 06:28:42 :  completed - Meanwhile
+12-Jul-24 06:28:44 :  completed - Ronja Røverdatter
+12-Jul-24 06:28:46 :  completed - Storemyr og Lillemyr. Bjerget i skoven
+12-Jul-24 06:28:48 :  completed - Så blev Farfar et Spøgelse
+12-Jul-24 06:28:50 :  completed - Woman in Black
+12-Jul-24 06:28:51 :  completed - Rend mig i traditionerne
+12-Jul-24 06:28:53 :  completed - Nøddeknækkeren og Musedronningen
+12-Jul-24 06:28:55 :  completed - Spejlvendt
+12-Jul-24 06:28:57 :  completed - Marias Barn Guds Søn
+12-Jul-24 06:28:59 :  completed - Drip Tekhne
+12-Jul-24 06:29:01 :  completed - Mio, min Mio
+12-Jul-24 06:29:03 :  completed - Simili
+12-Jul-24 06:29:05 :  completed - Ultrasound
+12-Jul-24 06:29:07 :  completed - Detour Dance Festival
+12-Jul-24 06:29:09 :  completed - Himmel
+12-Jul-24 06:29:11 :  completed - KRIGSBØRN
+12-Jul-24 06:29:13 :  completed - OR,
+12-Jul-24 06:29:14 :  completed - POW POW POW
+12-Jul-24 06:29:17 :  completed - Vai via
+12-Jul-24 06:29:19 :  completed - GILGAMESH
+12-Jul-24 06:29:21 :  completed - Hvem Bestemmer?
+12-Jul-24 06:29:22 :  completed - ANNA KARENINA
+12-Jul-24 06:29:24 :  completed - Puden
+12-Jul-24 06:29:26 :  completed - Antigone
+12-Jul-24 06:29:28 :  completed - TID TIL GLÆDE
+12-Jul-24 06:29:30 :  completed - Gengangere
+12-Jul-24 06:29:31 :  completed - Saturday Night Fever
+12-Jul-24 06:29:33 :  completed - En sommerdag i oktober
+12-Jul-24 06:29:36 :  completed - Kaptajn Utrolig
+12-Jul-24 06:29:38 :  completed - DOBBELT V
+12-Jul-24 06:29:40 :  completed - Farmor Floras grønne fingre
+12-Jul-24 06:29:42 :  completed - The Desk
+12-Jul-24 06:29:44 :  completed - 1-2-TRÆ
+12-Jul-24 06:29:46 :  completed - Medea Enigma
+12-Jul-24 06:29:47 :  completed - Ten Thousand Hours
+12-Jul-24 06:29:49 :  completed - New York City Ballet
+12-Jul-24 06:29:51 :  completed - Animals
+12-Jul-24 06:29:53 :  completed - Natten er lavet af glas
+12-Jul-24 06:29:56 :  completed - Det Sidste Måltid
+12-Jul-24 06:29:58 :  completed - KØTER
+12-Jul-24 06:30:00 :  completed - Aakjær
+12-Jul-24 06:30:02 :  completed - GRÆNSELØST
+12-Jul-24 06:30:04 :  completed - Luk julefreden ind
+12-Jul-24 06:30:06 :  completed - An ode
+12-Jul-24 06:30:09 :  completed - 24 hemmeligheder
+12-Jul-24 06:30:11 :  completed - Englene i sneen
+12-Jul-24 06:30:14 :  completed - Når du ser et stjerneskud
+12-Jul-24 06:30:15 :  completed - De Usynlige
+12-Jul-24 06:30:18 :  completed - Kærestebreve
+12-Jul-24 06:30:20 :  completed - Drengen til Juletræ
+12-Jul-24 06:30:21 :  completed - Mødrenes hus
+12-Jul-24 06:30:23 :  completed - PÆRFEKT GIN &amp; CROQUIS
+12-Jul-24 06:30:25 :  completed - Hvad skete der egentlig?
+12-Jul-24 06:30:27 :  completed - Leaning Tree
+12-Jul-24 06:30:28 :  completed - DE HOVEDLØSE
+12-Jul-24 06:30:30 :  completed - Vinden i piletræerne
+12-Jul-24 06:30:32 :  completed - LYDBAD
+12-Jul-24 06:30:34 :  completed - Historielabyrinten
+12-Jul-24 06:30:36 :  completed - GNIST
+12-Jul-24 06:30:38 :  completed - Story Fight Night
+12-Jul-24 06:30:40 :  completed - OpdagElse
+12-Jul-24 06:30:42 :  completed - 16:29
+12-Jul-24 06:30:44 :  completed - Til Ungdommen
+12-Jul-24 06:30:45 :  completed - The Sound of Music
+12-Jul-24 06:30:47 :  completed - Mordforsøg på Snehvide
+12-Jul-24 06:30:49 :  completed - KÆRLIGHED
+12-Jul-24 06:30:51 :  completed - Energi
+12-Jul-24 06:30:52 :  completed - Restaurant Europa
+12-Jul-24 06:30:55 :  completed - Dødsdansen
+12-Jul-24 06:30:57 :  completed - Digging Deep
+12-Jul-24 06:30:58 :  completed - OMVE'N HJEMVE
+12-Jul-24 06:31:00 :  completed - This is not Romeo and Juliet
+12-Jul-24 06:31:02 :  completed - Shirley Valentine
+12-Jul-24 06:31:04 :  completed - Shakespeare's Ghost
+12-Jul-24 06:31:05 :  completed - God jul, Cirkeline
+12-Jul-24 06:31:07 :  completed - EDWARD ALBEES HVEM ER BANGE FOR VIRGINIA WOOLF?
+12-Jul-24 06:31:09 :  completed - TRONFØLGER
+12-Jul-24 06:31:11 :  completed - TATOVERING
+12-Jul-24 06:31:14 :  completed - BACKSTAGE
+12-Jul-24 06:31:15 :  completed - HMS Pinafore
+12-Jul-24 06:31:17 :  completed - Den allersidste dans
+12-Jul-24 06:31:19 :  completed - Open Mic
+12-Jul-24 06:31:21 :  completed - Mytoman
+12-Jul-24 06:31:23 :  completed - FYRAFTENSSANG
+12-Jul-24 06:31:24 :  completed - Kærlighedens samtale er dans
+12-Jul-24 06:31:26 :  completed - Seeking Unicorns
+12-Jul-24 06:31:28 :  completed - Romeo &amp; Juliet - Up Close
+12-Jul-24 06:31:30 :  completed - unannounced
+12-Jul-24 06:31:32 :  completed - RUSH
+12-Jul-24 06:31:34 :  completed - Fase
+12-Jul-24 06:31:36 :  completed - The Boys From Livapool
+12-Jul-24 06:31:38 :  completed - Søren Elsker Katinka
+12-Jul-24 06:31:40 :  completed - BUSTER
+12-Jul-24 06:31:42 :  completed - DOSTOJEVSKIJ I KØBENHAVN
+12-Jul-24 06:31:43 :  completed - Baggårdspumaens Liv og Sange
+12-Jul-24 06:31:45 :  completed - Karius og Baktus
+12-Jul-24 06:31:47 :  completed - Troilus og Cressida
+12-Jul-24 06:31:49 :  completed - En ideel ægtemand
+12-Jul-24 06:31:51 :  completed - Kong Lear
+12-Jul-24 06:31:53 :  completed - ARENDT - at se i mørke af Rhea Leman
+12-Jul-24 06:31:55 :  completed - Going Nowhere
+12-Jul-24 06:31:57 :  completed - Grauballemanden the musical
+12-Jul-24 06:31:58 :  completed - Eks
+12-Jul-24 06:32:00 :  completed - Parents Playlist
+12-Jul-24 06:32:02 :  completed - Tour de chambre romankoncert
+12-Jul-24 06:32:04 :  completed - Schwanzen Sänger  Knaben
+12-Jul-24 06:32:06 :  completed - Mellem Sanserne
+12-Jul-24 06:32:07 :  completed - LATE NIGHT LØRDAG
+12-Jul-24 06:32:10 :  completed - TÆNKEPAUSER LIVE
+12-Jul-24 06:32:12 :  completed - Julen Er Hjerternes Test
+12-Jul-24 06:32:13 :  completed - Måske Ku Vi
+12-Jul-24 06:32:15 :  completed - Drink Me
+12-Jul-24 06:32:17 :  completed - Hold Så Kæft Lars
+12-Jul-24 06:32:19 :  completed - Jeg anerkender ikke længere jeres autoritet
+12-Jul-24 06:32:20 :  completed - Joseph_Kids
+12-Jul-24 06:32:22 :  completed - DRØMMEN
+12-Jul-24 06:32:24 :  completed - 1-2-3-4-5-6-7-8-9-10
+12-Jul-24 06:32:26 :  completed - PIANOMAN'EN FRA NEW YORK
+12-Jul-24 06:32:28 :  completed - Jeg Fortryder Intet...vel?
+12-Jul-24 06:32:30 :  completed - Kometen og Lillebror
+12-Jul-24 06:32:32 :  completed - Sigurd fortæller H.C Andersen
+12-Jul-24 06:32:34 :  completed - Sigurds Jul
+12-Jul-24 06:32:35 :  completed - THE LAST SHIP
+12-Jul-24 06:32:37 :  completed - Et latterligt menneskes drøm
+12-Jul-24 06:32:39 :  completed - Musikforestillingen NATASJA
+12-Jul-24 06:32:41 :  completed - De urørlige
+12-Jul-24 06:32:42 :  completed - Den store nisseprøve
+12-Jul-24 06:32:44 :  completed - TINKAS JULEEVENTYR
+12-Jul-24 06:32:47 :  completed - FEM KVARTER VED 200 GRADER
+12-Jul-24 06:32:49 :  completed - Bodils Jul
+12-Jul-24 06:32:51 :  completed - Næste år bliver øllet bedre
+12-Jul-24 06:32:52 :  completed - Anastasia The Musical
+12-Jul-24 06:32:54 :  completed - Svenske skønheder
+12-Jul-24 06:32:56 :  completed - De tre bukke bruse
+12-Jul-24 06:32:57 :  completed - Peter Kanin
+12-Jul-24 06:32:59 :  completed - Bare Vent
+12-Jul-24 06:33:01 :  completed - WICKED.
+12-Jul-24 06:33:03 :  completed - LUDO
+12-Jul-24 06:33:06 :  completed - Bjørnen som ikke var
+12-Jul-24 06:33:08 :  completed - HVORFOR LAVER VI IKKE ET BAND?
+12-Jul-24 06:33:10 :  completed - Hamlet
+12-Jul-24 06:33:11 :  completed - Lesbisk fredag
+12-Jul-24 06:33:13 :  completed - Helligtrekongersaften
+12-Jul-24 06:33:15 :  completed - Shakespeare in concert
+12-Jul-24 06:33:17 :  completed - Sort Samvittighed #4
+12-Jul-24 06:33:19 :  completed - FLAMMENWERFER
+12-Jul-24 06:33:21 :  completed - HOTspot
+12-Jul-24 06:33:22 :  completed - Boat Tours NHZ (New Harbour Zones)
+12-Jul-24 06:33:25 :  completed - Den Anden Arabiske Kvinde
+12-Jul-24 06:33:27 :  completed - FARVEL
+12-Jul-24 06:33:28 :  completed - Kant
+12-Jul-24 06:33:30 :  completed - Det magiske klippekort
+12-Jul-24 06:33:32 :  completed - Verdensherskerne!
+12-Jul-24 06:33:34 :  completed - Alle gode ting
+12-Jul-24 06:33:36 :  completed - Tiny
+12-Jul-24 06:33:38 :  completed - Teater Vestvoldens familieshow
+12-Jul-24 06:33:40 :  completed - Det er slet ikke som man tror
+12-Jul-24 06:33:42 :  completed - Kvinde kend din krop
+12-Jul-24 06:33:44 :  completed - At lære at dø
+12-Jul-24 06:33:46 :  completed - Den Lille Prins
+12-Jul-24 06:33:48 :  completed - Sallys Far
+12-Jul-24 06:33:50 :  completed - BENCHED
+12-Jul-24 06:33:51 :  completed - Rebound
+12-Jul-24 06:33:53 :  completed - Stories in the Dark
+12-Jul-24 06:33:55 :  completed - Emma Gads Takt &amp; Tone
+12-Jul-24 06:33:56 :  completed - total: 286
+12-Jul-24 06:34:00 :  completed - Mustafas Kiosk
+12-Jul-24 06:34:02 :  completed - Greyline af Renae Shadler
+12-Jul-24 06:34:04 :  completed - Børne- og familiepas (Børneworkshop/The Still Dying Swan)
+12-Jul-24 06:34:05 :  completed - Hjemme hos Alfons Åberg
+12-Jul-24 06:34:07 :  completed - Balder &amp; Dragen
+12-Jul-24 06:34:09 :  completed - Alfons Åberg
+12-Jul-24 06:34:11 :  completed - Min sidste øl
+12-Jul-24 06:34:13 :  completed - Da Lilleræv blev STOREBROR
+12-Jul-24 06:34:14 :  completed - Tommelise
+12-Jul-24 06:34:16 :  completed - Peddersen og Findus - Jul hos Peddersen
+12-Jul-24 06:34:18 :  completed - Brødrene Løvehjerte SOLO
+12-Jul-24 06:34:19 :  completed - We Will Rock You
+12-Jul-24 06:34:21 :  completed - DATA DATA 1.0
+12-Jul-24 06:34:23 :  completed - Den forunderlige rejse
+12-Jul-24 06:34:25 :  completed - Et Juleeventyr
+12-Jul-24 06:34:27 :  completed - Håbets koloni
+12-Jul-24 06:34:28 :  completed - Barnevognen
+12-Jul-24 06:34:30 :  completed - Eddy Spaghetti
+12-Jul-24 06:34:32 :  completed - Se mig nu
+12-Jul-24 06:34:34 :  completed - Hallo!
+12-Jul-24 06:34:37 :  completed - ROD
+12-Jul-24 06:34:39 :  completed - Tvillingehjerte
+12-Jul-24 06:34:41 :  completed - Tju Bang
+12-Jul-24 06:34:42 :  completed - Jorden Rundt
+12-Jul-24 06:34:44 :  completed - Jagten på den løsslupne lørdagskylling
+12-Jul-24 06:34:46 :  completed - Tro, håb og Gorgonzola
+12-Jul-24 06:34:48 :  completed - Petersuaq
+12-Jul-24 06:34:50 :  completed - Diktatoren
+12-Jul-24 06:34:51 :  completed - Nøddeknækkeren
+12-Jul-24 06:34:53 :  completed - Nisser driller da?
+12-Jul-24 06:34:55 :  completed - Rejsekammeraten
+12-Jul-24 06:34:57 :  completed - VEJEN
+12-Jul-24 06:34:59 :  completed - Ronja Røverdatter
+12-Jul-24 06:35:01 :  completed - Storemyr og Lillemyr. Bjerget i skoven
+12-Jul-24 06:35:03 :  completed - Så blev Farfar et Spøgelse
+12-Jul-24 06:35:05 :  completed - Rend mig i traditionerne
+12-Jul-24 06:35:07 :  completed - Nøddeknækkeren og Musedronningen
+12-Jul-24 06:35:08 :  completed - Spejlvendt
+12-Jul-24 06:35:10 :  completed - Marias Barn Guds Søn
+12-Jul-24 06:35:12 :  completed - Mio, min Mio
+12-Jul-24 06:35:15 :  completed - Himmel
+12-Jul-24 06:35:16 :  completed - Vai via
+12-Jul-24 06:35:18 :  completed - Hvem Bestemmer?
+12-Jul-24 06:35:20 :  completed - Antigone
+12-Jul-24 06:35:22 :  completed - Farmor Floras grønne fingre
+12-Jul-24 06:35:23 :  completed - 1-2-TRÆ
+12-Jul-24 06:35:25 :  completed - Natten er lavet af glas
+12-Jul-24 06:35:27 :  completed - GRÆNSELØST
+12-Jul-24 06:35:29 :  completed - Luk julefreden ind
+12-Jul-24 06:35:31 :  completed - 24 hemmeligheder
+12-Jul-24 06:35:32 :  completed - Englene i sneen
+12-Jul-24 06:35:35 :  completed - Når du ser et stjerneskud
+12-Jul-24 06:35:37 :  completed - De Usynlige
+12-Jul-24 06:35:38 :  completed - Drengen til Juletræ
+12-Jul-24 06:35:40 :  completed - Vinden i piletræerne
+12-Jul-24 06:35:42 :  completed - GNIST
+12-Jul-24 06:35:43 :  completed - OpdagElse
+12-Jul-24 06:35:45 :  completed - The Sound of Music
+12-Jul-24 06:35:47 :  completed - God jul, Cirkeline
+12-Jul-24 06:35:49 :  completed - FYRAFTENSSANG
+12-Jul-24 06:35:51 :  completed - Karius og Baktus
+12-Jul-24 06:35:53 :  completed - Joseph_Kids
+12-Jul-24 06:35:55 :  completed - 1-2-3-4-5-6-7-8-9-10
+12-Jul-24 06:35:57 :  completed - Sigurd fortæller H.C Andersen
+12-Jul-24 06:35:59 :  completed - Sigurds Jul
+12-Jul-24 06:36:01 :  completed - Den store nisseprøve
+12-Jul-24 06:36:03 :  completed - TINKAS JULEEVENTYR
+12-Jul-24 06:36:04 :  completed - De tre bukke bruse
+12-Jul-24 06:36:06 :  completed - Peter Kanin
+12-Jul-24 06:36:08 :  completed - WICKED.
+12-Jul-24 06:36:10 :  completed - Bjørnen som ikke var
+12-Jul-24 06:36:12 :  completed - Helligtrekongersaften
+12-Jul-24 06:36:14 :  completed - Kant
+12-Jul-24 06:36:16 :  completed - Det magiske klippekort
+12-Jul-24 06:36:18 :  completed - Tiny
+12-Jul-24 06:36:19 :  completed - Teater Vestvoldens familieshow
+12-Jul-24 06:36:21 :  completed - Det er slet ikke som man tror
+12-Jul-24 06:36:23 :  completed - Den Lille Prins
+12-Jul-24 06:36:25 :  completed - Sallys Far
+12-Jul-24 06:36:25 :  completed - total: 365

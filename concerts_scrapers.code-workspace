@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../concerts_scrapers"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
