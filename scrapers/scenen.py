@@ -130,7 +130,7 @@ def crawl2():
         
         for data in cards:
             try:
-                parse_page(data,total)
+                parse_page(data,total,True)
             except Exception as e:
                 pass
 
@@ -207,11 +207,11 @@ def crawl():
         
         for data in cards:
             try:
-                parse_page(data,total)
+                parse_page(data,total,False)
             except Exception as e:
                 pass
             
-def parse_page(data:dict,total:int):
+def parse_page(data:dict,total:int,event_title:bool):
     total = str(total)
     title = data['post_title']
     main_category = data.get('acf_category_name','')
@@ -268,6 +268,8 @@ def parse_page(data:dict,total:int):
         locationLatitude = 56.09537115
         locationLongitude = 9.75162625
     
+    if event_title == True:
+        category = 'Kids'
     dic = {
         "postType": "Performing Arts", 
         "genre": category,
@@ -297,7 +299,8 @@ def parse_page(data:dict,total:int):
     save.append(dic)
 
 def run():
-    
+    global save
+    temp_save = []
     filename = __file__.split('\\')[-1]
     logging.info("-" * 113)
     logging.info(f" Starting  - ({filename}) scraper")
@@ -310,6 +313,10 @@ def run():
         logging.info("-" * 113)
         logging.error(f"An error occurred: (scrapers\\{filename})\n%s", error_message)
         logging.error("-" * 113)
+        
+    saving(savefile=save,filename=filename.replace('.py','')+'_performing_arts'.replace('.py',''))
+    temp_save.extend(save)
+    save = []
     
     try:
         crawl2()
@@ -320,6 +327,7 @@ def run():
         logging.error(f"An error occurred: (scrapers\\{filename})\n%s", error_message)
         logging.error("-" * 113)
 
-    saving(savefile=save,filename=filename.replace('.py',''))
-    return save
+    saving(savefile=save,filename=filename.replace('.py','')+'_kids_events'.replace('.py',''))
+    temp_save.extend(save)
+    return temp_save
 
