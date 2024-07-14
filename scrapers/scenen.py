@@ -314,7 +314,7 @@ def run():
         logging.error(f"An error occurred: (scrapers\\{filename})\n%s", error_message)
         logging.error("-" * 113)
         
-    saving(savefile=save,filename=filename.replace('.py','')+'_performing_arts'.replace('.py',''))
+    saving(savefile=save,filename=filename.replace('.py','')+'_performing_arts')
     temp_save.extend(save)
     save = []
     
@@ -327,7 +327,10 @@ def run():
         logging.error(f"An error occurred: (scrapers\\{filename})\n%s", error_message)
         logging.error("-" * 113)
 
-    saving(savefile=save,filename=filename.replace('.py','')+'_kids_events'.replace('.py',''))
+    saving(savefile=save,filename=filename.replace('.py','')+'_kids_events')
     temp_save.extend(save)
+    
+    saving(savefile=temp_save,filename=filename.replace('.py',''))
     return temp_save
 
+run()
